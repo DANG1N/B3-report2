@@ -1,0 +1,90 @@
+% Document type, font size, margin
+\documentclass[11pt]{article}
+\usepackage[margin=20mm]{geometry}
+
+% Double spacing and indentation
+\usepackage{setspace}
+\doublespacing
+\setlength{\parindent}{0pt}
+
+% Set font to Arial (Tom Adcock)
+\usepackage{fontspec}
+\setmainfont[
+BoldFont=Arial Bold.ttf,
+ItalicFont=Arial Italic.ttf,
+BoldItalicFont=Arial Bold Italic.ttf
+]{Arial.ttf}
+
+% Given by "Example Project"
+\usepackage[english]{babel}
+\usepackage[a4paper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+
+% Useful packages
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{subcaption}
+\usepackage[justification=centering]{caption}
+\usepackage{multicol}
+\setlength\parindent{20pt}
+
+% Headers and footers
+\usepackage{fancyhdr} % Include the package for custom headers and footers
+\usepackage{lipsum}   % Provides sample text. Remove this in your actual document
+\pagestyle{fancy}     % Set the page style to fancy to apply your custom headers and footers
+\fancyhf{}            % Clear all header and footer fields to start fresh
+% Default header and footer settings
+\fancyhead{}          % Clear all header fields
+\fancyhead[L]{\leftmark} % "\leftmark" will display the current section name
+\fancyfoot{}          % Clear all footer fields
+\fancyfoot[C]{\thepage}  % Page number at the bottom center
+\renewcommand{\headrulewidth}{0.4pt}  % Line width for the header rule
+\renewcommand{\footrulewidth}{0pt}    % No line for the footer
+
+% Define the null header
+\fancypagestyle{nullheader}{
+  \fancyhf{} % Clear headers and footers
+  \renewcommand{\headrulewidth}{0pt} % No line in the header
+  \renewcommand{\footrulewidth}{0pt} % No line in the footer
+}
+
+% Start of the document
+\begin{document}
+% Apply the cover page style for the cover page
+\thispagestyle{nullheader}
+\input{z1-cover-page}
+\clearpage % End of the cover page
+
+\thispagestyle{nullheader}
+\input{z2-table-of-contents}
+\clearpage % Starts a new page after the table of contents
+
+\thispagestyle{nullheader}
+\input{technical-writing}
+\clearpage % Starts a new page after the table of contents
+
+\fancyhead[L]{}
+\fancyhead[R]{CONTROL SYSTEMS - EUNSOO CHANG}
+\input{z3-control-T}
+\input{z4-control-DO}
+\input{z5-control-pH}
+
+\input{z6-purify-lactic}
+\fancyhead[L]{}
+\fancyhead[R]{PURIFICATION METHODS - EUNSOO CHANG}
+\clearpage
+\input{z7-purify-NH3}
+
+\input{z8-final-product}
+\fancyhead[L]{}
+\fancyhead[R]{FINAL PRODUCT FORMULATION - EUNSOO CHANG}
+\clearpage
+
+\newpage
+\thispagestyle{nullheader}
+\begin{small}
+\bibliographystyle{ieeetr}
+\bibliography{mybib}
+\end{small}
+
+\end{document}
