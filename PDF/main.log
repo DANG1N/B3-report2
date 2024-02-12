@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.9)  11 FEB 2024 17:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.9)  12 FEB 2024 14:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -687,7 +687,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--77
 
 [3
 
-] (./z3-control-T.tex
+] (./eunsoo/z3-control-T.tex
 
 LaTeX Warning: Citation 'E-Guyton2006' on page 4 undefined on input line 12.
 
@@ -697,10 +697,10 @@ LaTeX Warning: Citation 'E-Aging2022' on page 4 undefined on input line 12.
 
 LaTeX Warning: Citation 'E-Donaldson2013' on page 4 undefined on input line 12.
 
-<E-1-1-control-system.png, id=15, 623.83063pt x 211.28937pt>
-File: E-1-1-control-system.png Graphic file (type png)
-<use E-1-1-control-system.png>
-Package pdftex.def Info: E-1-1-control-system.png  used on input line 20.
+<eunsoo/E-1-1-control-system.png, id=15, 623.83063pt x 211.28937pt>
+File: eunsoo/E-1-1-control-system.png Graphic file (type png)
+<use eunsoo/E-1-1-control-system.png>
+Package pdftex.def Info: eunsoo/E-1-1-control-system.png  used on input line 20.
 (pdftex.def)             Requested size: 375.36299pt x 127.13568pt.
 
 LaTeX Warning: Citation 'E-Cannon2022' on page 4 undefined on input line 22.
@@ -713,11 +713,11 @@ LaTeX Warning: Citation 'E-Gaughan2014' on page 4 undefined on input line 33.
 
 [4
 
- <./E-1-1-control-system.png>]
-<E-1-2-heat-exchangers.png, id=25, 428.09938pt x 268.50313pt>
-File: E-1-2-heat-exchangers.png Graphic file (type png)
-<use E-1-2-heat-exchangers.png>
-Package pdftex.def Info: E-1-2-heat-exchangers.png  used on input line 43.
+ <./eunsoo/E-1-1-control-system.png>]
+<eunsoo/E-1-2-heat-exchangers.png, id=25, 428.09938pt x 268.50313pt>
+File: eunsoo/E-1-2-heat-exchangers.png Graphic file (type png)
+<use eunsoo/E-1-2-heat-exchangers.png>
+Package pdftex.def Info: eunsoo/E-1-2-heat-exchangers.png  used on input line 43.
 (pdftex.def)             Requested size: 250.24199pt x 156.95282pt.
 
 
@@ -726,22 +726,22 @@ LaTeX Warning: Citation 'E-Doran2013' on page 5 undefined on input line 45.
 
 LaTeX Warning: Citation 'E-Doran2013' on page 5 undefined on input line 45.
 
-<E-1-3-digital-control-system.png, id=26, 649.42625pt x 355.82938pt>
-File: E-1-3-digital-control-system.png Graphic file (type png)
-<use E-1-3-digital-control-system.png>
-Package pdftex.def Info: E-1-3-digital-control-system.png  used on input line 54.
+<eunsoo/E-1-3-digital-control-system.png, id=26, 649.42625pt x 355.82938pt>
+File: eunsoo/E-1-3-digital-control-system.png Graphic file (type png)
+<use eunsoo/E-1-3-digital-control-system.png>
+Package pdftex.def Info: eunsoo/E-1-3-digital-control-system.png  used on input line 54.
 (pdftex.def)             Requested size: 300.29344pt x 164.53592pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5 <./E-1-2-heat-exchangers.png>]
+[5 <./eunsoo/E-1-2-heat-exchangers.png>]
 
 LaTeX Warning: Citation 'E-Furuhashi2021' on page 6 undefined on input line 99.
 
 
 LaTeX Warning: Citation 'E-Fellows2009' on page 6 undefined on input line 99.
 
-[6 <./E-1-3-digital-control-system.png>]
+[6 <./eunsoo/E-1-3-digital-control-system.png>]
 
 LaTeX Warning: Citation 'E-Cannon2022-2' on page 7 undefined on input line 117.
 
@@ -750,21 +750,42 @@ Overfull \hbox (10.17953pt too wide) in paragraph at lines 117--118
 []\T1/phv/m/n/10.95 One of the most com-monly used con-trollers in the pro-cess con-trol in-dus-try is proportional-differentiator-
  []
 
-<E-1-4-step-and-impulse.jpg, id=37, 843.15pt x 632.3625pt>
-File: E-1-4-step-and-impulse.jpg Graphic file (type jpg)
-<use E-1-4-step-and-impulse.jpg>
-Package pdftex.def Info: E-1-4-step-and-impulse.jpg  used on input line 121.
+<eunsoo/E-1-4-step-and-impulse.jpg, id=37, 843.15pt x 632.3625pt>
+File: eunsoo/E-1-4-step-and-impulse.jpg Graphic file (type jpg)
+<use eunsoo/E-1-4-step-and-impulse.jpg>
+Package pdftex.def Info: eunsoo/E-1-4-step-and-impulse.jpg  used on input line 121.
 (pdftex.def)             Requested size: 350.33727pt x 262.75362pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./z4-control-DO.tex [7]) (./z5-control-pH.tex [8 <./E-1-4-step-and-impulse.jpg>]) (./z6-purify-lactic.tex [9]) [10] (./z7-purify-NH3.tex) (./z8-final-product.tex [11
 
-]) [12]
+./eunsoo/z3-control-T.tex:136: Package biblatex Error: '\bibliographystyle' invalid for 'biblatex'.
 
-LaTeX Warning: Empty bibliography on input line 99.
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136 \bibliographystyle{unsrt}
+                               
+Use the package option 'style' instead.
+I'm ignoring this command.
 
-(PDF/main.aux)
+
+./eunsoo/z3-control-T.tex:150: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.150 \bibliography
+                   {mybib.bib}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) (./eunsoo/z4-control-DO.tex [7]) (./eunsoo/z5-control-pH.tex [8 <./eunsoo/E-1-4-step-and-impulse.jpg>]) (./eunsoo/z6-purify-lactic.tex [9]) [10] (./eunsoo/z7-purify-NH3.tex) (./eunsoo/z8-final-product.tex [11
+
+]) [12] (PDF/main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-30>
@@ -783,15 +804,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 14855 strings out of 475237
- 275344 string characters out of 5764559
+ 14856 strings out of 475237
+ 275847 string characters out of 5764559
  1927244 words of memory out of 5000000
- 35918 multiletter control sequences out of 15000+600000
- 585313 words of font info for 65 fonts, out of 8000000 for 9000
+ 35917 multiletter control sequences out of 15000+600000
+ 586467 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,12n,81p,1152b,1791s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on PDF/main.pdf (12 pages, 433521 bytes).
+Output written on PDF/main.pdf (12 pages, 433552 bytes).
 PDF statistics:
  98 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream

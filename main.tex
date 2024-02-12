@@ -78,25 +78,45 @@
 
 \fancyhead[L]{}
 \fancyhead[R]{CONTROL SYSTEMS - EUNSOO CHANG}
-\input{z3-control-T}
-\input{z4-control-DO}
-\input{z5-control-pH}
+\input{eunsoo/z3-control-T}
+\input{eunsoo/z4-control-DO}
+\input{eunsoo/z5-control-pH}
 
-\input{z6-purify-lactic}
+\input{eunsoo/z6-purify-lactic}
 \fancyhead[L]{}
 \fancyhead[R]{PURIFICATION METHODS - EUNSOO CHANG}
 \clearpage
-\input{z7-purify-NH3}
+\input{eunsoo/z7-purify-NH3}
 
-\input{z8-final-product}
+\input{eunsoo/z8-final-product}
 \fancyhead[L]{}
 \fancyhead[R]{FINAL PRODUCT FORMULATION - EUNSOO CHANG}
 \clearpage
 
 \newpage
 \thispagestyle{nullheader}
-\begin{small}
-\printbibliography
-\end{small}
+
+\begingroup\onehalfspacing
+{\small
+%\renewcommand{\section}[2]{}
+\begin{multicols}{2}
+\bibliographystyle{unsrt}
+%\bibliographystyle{elsarticle-num}
+% \bibliographystyle{elsarticle-harv}
+% \bibliographystyle{elsarticle-num-names}
+% \bibliographystyle{model1a-num-names}
+% \bibliographystyle{model1b-num-names}
+% \bibliographystyle{model1c-num-names}
+% \bibliographystyle{model1-num-names}
+% \bibliographystyle{model2-names}
+% \bibliographystyle{model3a-num-names}
+% \bibliographystyle{model3-num-names}
+% \bibliographystyle{model4-names}
+% \bibliographystyle{model5-names}
+% \bibliographystyle{model6-num-names}
+\bibliography{mybib.bib}
+\end{multicols}}
+\endgroup
+
 
 \end{document}
