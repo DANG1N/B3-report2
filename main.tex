@@ -7,13 +7,25 @@
 \doublespacing
 \setlength{\parindent}{0pt}
 
+\usepackage{csquotes}
+\usepackage[backend=biber]{biblatex}
+
 % Set font to Arial (Tom Adcock)
-\usepackage{fontspec}
-\setmainfont[
-BoldFont=Arial Bold.ttf,
-ItalicFont=Arial Italic.ttf,
-BoldItalicFont=Arial Bold Italic.ttf
-]{Arial.ttf}
+% \usepackage{fontspec}
+% \setmainfont[
+% BoldFont=Arial Bold.ttf,
+% ItalicFont=Arial Italic.ttf,
+% BoldItalicFont=Arial Bold Italic.ttf
+% ]{Arial.ttf}
+
+% CHANGING FONT TO BE COMPATIBLE WITH PDFLATEX COMPILER
+\usepackage[T1]{fontenc}
+\renewcommand*\familydefault{\sfdefault}
+
+% If you have Arial installed on your system, you can use it with pdflatex
+\renewcommand{\rmdefault}{phv} % Helvetica as the main font
+\renewcommand{\sfdefault}{phv} % Helvetica as the sans-serif font
+
 
 % Given by "Example Project"
 \usepackage[english]{babel}
@@ -38,7 +50,8 @@ BoldItalicFont=Arial Bold Italic.ttf
 \fancyhead[L]{\leftmark} % "\leftmark" will display the current section name
 \fancyfoot{}          % Clear all footer fields
 \fancyfoot[C]{\thepage}  % Page number at the bottom center
-\renewcommand{\headrulewidth}{0.4pt}  % Line width for the header rule
+\setlength{\headheight}{15pt}
+\addtolength{\topmargin}{-1.6pt}  % Line width for the header rule
 \renewcommand{\footrulewidth}{0pt}    % No line for the footer
 
 % Define the null header
@@ -83,8 +96,7 @@ BoldItalicFont=Arial Bold Italic.ttf
 \newpage
 \thispagestyle{nullheader}
 \begin{small}
-\bibliographystyle{ieeetr}
-\bibliography{mybib}
+\printbibliography
 \end{small}
 
 \end{document}
