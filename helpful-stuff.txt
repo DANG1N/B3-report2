@@ -1,9 +1,33 @@
 https://cheatography.com/jcwinkler/cheat-sheets/latex-workshop-visual-studio-code/
 
-running github:
-https://www.datacamp.com/tutorial/git-push-pull
+SUMMARY
+WHEN YOU FIRST START:
+OPEN YOUR B3 FOLDER WITH:
+cd FOLDERPATH
+git init 
+git remote add origin 'https://github.com/DANG1N/B3-report2/'
+git pull
+
+WHEN YOU START:
+git init
+git pull
+
+DO YOUR WORK 
+
+UPLOAD YOUR CHANGES
+git add .
+git status
+git commit -m "MESSAGE CONTAINING YOUR CHANGES"
+git push -u origin master
+
 
 MAKE SURE TO PULL FIRST AND RESOLVE MERGING PROBLEMS BEFORE PUSHING
+
+MORE HELP HERE 
+running git:
+https://www.datacamp.com/tutorial/git-push-pull
+
+----------------------------------------------------------------------------------------------------------
 
 for Biber - VS Code - LaTeX Workshop - Use settings/recipe
 
@@ -17,3 +41,6 @@ for Biber - VS Code - LaTeX Workshop - Use settings/recipe
 
 found  here https://tex.stackexchange.com/questions/154751/biblatex-with-biber-configuring-my-editor-to-avoid-undefined-citations/502183#502183
 
+BIBER/BIBTEX HELP
+COMMANDS : https://tex.stackexchange.com/questions/541559/citep-vs-parencite
+SETUP : https://tex.stackexchange.com/questions/13509/biblatex-in-a-nutshell-for-beginners
