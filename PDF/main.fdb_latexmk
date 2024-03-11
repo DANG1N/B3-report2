@@ -1,11 +1,19 @@
 # Fdb version 4
+<<<<<<< HEAD
 ["biber PDF/main"] 0 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 0 -1
   "PDF/main.bcf" 1707755813 108001 1f2caf9bb8789a9687895c901a48f133 "pdflatex"
+=======
+["bibtex main"] 0 "main.aux" "main.bbl" "main" 1708262485 -1
+>>>>>>> 53e7d905628352efc2e00c010ca96a92c40eecec
   (generated)
   "PDF/main.bbl"
   "PDF/main.blg"
   (rewritten before read)
+<<<<<<< HEAD
 ["pdflatex"] 1707755811 "/workspaces/B3-report2/main.tex" "PDF/main.pdf" "main" 1707755813 2
+=======
+["pdflatex"] 1708262484 "/workspaces/B3-report2/main.tex" "PDF/main.pdf" "main" 1708262485 2
+>>>>>>> 53e7d905628352efc2e00c010ca96a92c40eecec
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm" 1136768653 4484 b828043cbd581d289d955903c1339981 ""
@@ -103,6 +111,7 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1688881012 4643411 808b8df776595c3e72145e027cce2612 ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1688881055 8172456 b563fca315dcd1b2673ea5601c7f5dfd ""
   "/usr/local/texlive/2023/texmf.cnf" 1688881009 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+<<<<<<< HEAD
   "/workspaces/B3-report2/main.tex" 1707755811 3640 a5ca7917e63ba2fa999af8c91759950f ""
   "PDF/main.aux" 1707755813 3832 7b3b6a46c7df514e34b5de1ed7d0f7d6 "pdflatex"
   "PDF/main.bbl" 1707754700 0 d41d8cd98f00b204e9800998ecf8427e "biber PDF/main"
@@ -123,6 +132,28 @@
   "y0-oxford.jpg" 1707752476 40495 e507fe5ffe63bce06e3b7f7eed6e9ba0 ""
   "z1-cover-page.tex" 1707752476 692 684136b8a467c4b2af4fafb0ff1c0cb6 ""
   "z2-table-of-contents.tex" 1707752476 16 f84fe46f1a4fbd3ea00e9cc12e2be653 ""
+=======
+  "/workspaces/B3-report2/main.tex" 1708262483 3646 06e0e0a00698dfdd45db367594628984 ""
+  "PDF/main.aux" 1708262485 3832 7b3b6a46c7df514e34b5de1ed7d0f7d6 "pdflatex"
+  "PDF/main.run.xml" 1708262485 2224 365b26d2461a7c422220465ea2130593 "pdflatex"
+  "PDF/main.toc" 1708262485 915 629a9645e1731a4c813ec492ed7cb342 "pdflatex"
+  "eunsoo/E-1-1-control-system.png" 1708262220 62153 82c46491eed1841ceb7f2179968f7699 ""
+  "eunsoo/E-1-2-heat-exchangers.png" 1708262220 108026 4aeb45a93886b480ad6bb734d6e30b7e ""
+  "eunsoo/E-1-3-digital-control-system.png" 1708262220 79276 fc87a1798984a76ffcf5273e4916a1c8 ""
+  "eunsoo/E-1-4-step-and-impulse.jpg" 1708262220 64195 6f201205aea4464e463cd1321007cb4f ""
+  "eunsoo/z3-control-T.tex" 1708262220 10385 02095bf391b78758a939ee2d58c7014c ""
+  "eunsoo/z4-control-DO.tex" 1708262220 101 f8982e7d9a87e2c4fc934c379d52cf01 ""
+  "eunsoo/z5-control-pH.tex" 1708262220 103 97b2b102b7aa6efe8768206a37e56f0a ""
+  "eunsoo/z6-purify-lactic.tex" 1708262220 142 b2b8d0509475531f9f7bd7ce4c2c2282 ""
+  "eunsoo/z7-purify-NH3.tex" 1708262220 42 bd6a9931308ac6f9e062465c3a05afda ""
+  "eunsoo/z8-final-product.tex" 1708262220 109 2a9c95bf1903cbac17db994ace56e026 ""
+  "main.bbl" 1708262220 0 d41d8cd98f00b204e9800998ecf8427e "bibtex main"
+  "main.tex" 1708262483 3646 06e0e0a00698dfdd45db367594628984 ""
+  "technical-writing.tex" 1708262220 1271 6db52736b86c128b080243b5ca13a10f ""
+  "y0-oxford.jpg" 1708262220 40495 e507fe5ffe63bce06e3b7f7eed6e9ba0 ""
+  "z1-cover-page.tex" 1708262220 692 684136b8a467c4b2af4fafb0ff1c0cb6 ""
+  "z2-table-of-contents.tex" 1708262220 16 f84fe46f1a4fbd3ea00e9cc12e2be653 ""
+>>>>>>> 53e7d905628352efc2e00c010ca96a92c40eecec
   (generated)
   "PDF/main.aux"
   "PDF/main.bcf"

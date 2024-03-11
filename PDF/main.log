@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.9)  12 FEB 2024 16:36
+=======
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.9)  18 FEB 2024 13:21
+>>>>>>> 53e7d905628352efc2e00c010ca96a92c40eecec
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -762,26 +766,43 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 ]) [12]
 
+<<<<<<< HEAD
 /workspaces/B3-report2/main.tex:103: Package biblatex Error: '\bibliographystyle' invalid for 'biblatex'.
+=======
+/workspaces/B3-report2/main.tex:104: Package biblatex Error: '\bibliographystyle' invalid for 'biblatex'.
+>>>>>>> 53e7d905628352efc2e00c010ca96a92c40eecec
 
 See the biblatex package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
+<<<<<<< HEAD
 l.103 \bibliographystyle{plain}
+=======
+l.104 \bibliographystyle{unsrt}
+>>>>>>> 53e7d905628352efc2e00c010ca96a92c40eecec
                                
 Use the package option 'style' instead.
 I'm ignoring this command.
 
 
+<<<<<<< HEAD
 /workspaces/B3-report2/main.tex:117: LaTeX Error: Can be used only in preamble.
+=======
+/workspaces/B3-report2/main.tex:118: LaTeX Error: Can be used only in preamble.
+>>>>>>> 53e7d905628352efc2e00c010ca96a92c40eecec
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
+<<<<<<< HEAD
 l.117 \bibliography
                    {mybib}
+=======
+l.118 \bibliography
+                   {mybib.bib}
+>>>>>>> 53e7d905628352efc2e00c010ca96a92c40eecec
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -808,14 +829,22 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  14856 strings out of 475237
+<<<<<<< HEAD
  275853 string characters out of 5764559
+=======
+ 275847 string characters out of 5764559
+>>>>>>> 53e7d905628352efc2e00c010ca96a92c40eecec
  1927244 words of memory out of 5000000
  35917 multiletter control sequences out of 15000+600000
  586467 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,12n,81p,1152b,1737s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+<<<<<<< HEAD
 Output written on PDF/main.pdf (13 pages, 433276 bytes).
+=======
+Output written on PDF/main.pdf (13 pages, 433279 bytes).
+>>>>>>> 53e7d905628352efc2e00c010ca96a92c40eecec
 PDF statistics:
  102 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream
