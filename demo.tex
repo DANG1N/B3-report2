@@ -4,6 +4,17 @@
 
 \usepackage{amsmath} % \usepackage is a command that allows you to add functionality to your LaTeX code
 
+\usepackage[
+    backend=biber,
+    style=authoryear-icomp,
+    sortlocale=de_DE,
+    natbib=true,
+    url=false, 
+    doi=true,
+    eprint=false
+]{biblatex}
+\addbibresource{biblatex-examples.bib}
+
 \title{Simple Sample} % Sets article title
 \author{My Name} % Sets authors name
 \date{\today} % Sets date for date compiled
@@ -24,6 +35,10 @@ If I do not leave any blank lines \LaTeX{} will continue  this text without maki
 Also notice how even though I hit enter after that sentence and here $\downarrow$
 \LaTeX{} formats the sentence without any break.  Also   look  how      it   doesn't     matter          how    many  spaces     I put     between       my    words.
 
+\nocite{*}
+
 For a new essay I can leave a blank space in my code.
+
+\printbibliography
 
 \end{document} % This is the end of the document

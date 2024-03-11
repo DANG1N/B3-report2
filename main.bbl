@@ -1,0 +1,345 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{E-Aging2022}{book}{}
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-12-823761-8}
+      \field{title}{Aging: From Fundamental Biology to Societal Impact}
+      \field{year}{2022}
+      \verb{doi}
+      \verb https://doi.org/10.1016/C2020-0-00576-1
+      \endverb
+    \endentry
+    \entry{E-Cannon2022}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c557ab1156d90dd2aa0a798d04da6b7}{%
+           family={Cannon},
+           familyi={C\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6c557ab1156d90dd2aa0a798d04da6b7}
+      \strng{fullhash}{6c557ab1156d90dd2aa0a798d04da6b7}
+      \strng{bibnamehash}{6c557ab1156d90dd2aa0a798d04da6b7}
+      \strng{authorbibnamehash}{6c557ab1156d90dd2aa0a798d04da6b7}
+      \strng{authornamehash}{6c557ab1156d90dd2aa0a798d04da6b7}
+      \strng{authorfullhash}{6c557ab1156d90dd2aa0a798d04da6b7}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Department of Engineering Science, University of Oxford, Michaelmas Term}
+      \field{title}{A2 Introduction to Control Theory: Lectures 1-4}
+      \field{year}{2022}
+    \endentry
+    \entry{E-Cannon2022-2}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c557ab1156d90dd2aa0a798d04da6b7}{%
+           family={Cannon},
+           familyi={C\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6c557ab1156d90dd2aa0a798d04da6b7}
+      \strng{fullhash}{6c557ab1156d90dd2aa0a798d04da6b7}
+      \strng{bibnamehash}{6c557ab1156d90dd2aa0a798d04da6b7}
+      \strng{authorbibnamehash}{6c557ab1156d90dd2aa0a798d04da6b7}
+      \strng{authornamehash}{6c557ab1156d90dd2aa0a798d04da6b7}
+      \strng{authorfullhash}{6c557ab1156d90dd2aa0a798d04da6b7}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Department of Engineering Science, University of Oxford, Michaelmas Term}
+      \field{title}{A2 Introduction to Control Theory: Lectures 5-8}
+      \field{year}{2022}
+    \endentry
+    \entry{E-Donaldson2013}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f061bc9c0c3f106591756920da5eea07}{%
+           family={Donaldson},
+           familyi={D\bibinitperiod},
+           given={Andrea\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a72bcff78cc456bce252157f96a8f2f9}{%
+           family={Lamont},
+           familyi={L\bibinitperiod},
+           given={Iain\bibnamedelima L.},
+           giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{4c9edf0b14486b56b5a23af685666735}
+      \strng{fullhash}{4c9edf0b14486b56b5a23af685666735}
+      \strng{bibnamehash}{4c9edf0b14486b56b5a23af685666735}
+      \strng{authorbibnamehash}{4c9edf0b14486b56b5a23af685666735}
+      \strng{authornamehash}{4c9edf0b14486b56b5a23af685666735}
+      \strng{authorfullhash}{4c9edf0b14486b56b5a23af685666735}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLOS ONE}
+      \field{note}{Published online 2013 Nov 21.}
+      \field{number}{11}
+      \field{title}{Biochemistry Changes That Occur after Death: Potential Markers for Determining Post-Mortem Interval}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{pages}{e82011}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0082011
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1371/journal.pone.0082011
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1371/journal.pone.0082011
+      \endverb
+    \endentry
+    \entry{E-Doran2013}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fa61a4cf51d91a37ce21af007bb8e606}{%
+           family={Doran},
+           familyi={D\bibinitperiod},
+           given={Pauline\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{fa61a4cf51d91a37ce21af007bb8e606}
+      \strng{fullhash}{fa61a4cf51d91a37ce21af007bb8e606}
+      \strng{bibnamehash}{fa61a4cf51d91a37ce21af007bb8e606}
+      \strng{authorbibnamehash}{fa61a4cf51d91a37ce21af007bb8e606}
+      \strng{authornamehash}{fa61a4cf51d91a37ce21af007bb8e606}
+      \strng{authorfullhash}{fa61a4cf51d91a37ce21af007bb8e606}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Bioprocess Engineering Principles}
+      \field{edition}{2}
+      \field{title}{Chapter 9 - Heat Transfer}
+      \field{year}{2013}
+      \field{pages}{333\bibrangedash 377}
+      \range{pages}{45}
+      \verb{doi}
+      \verb 10.1016/B978-0-12-220851-5.00009-5
+      \endverb
+    \endentry
+    \entry{E-Fellows2009}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=820017e9fc0f759b36bced6bae217387}{%
+           family={Fellows},
+           familyi={F\bibinitperiod},
+           given={P.J.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Woodhead Publishing}%
+      }
+      \strng{namehash}{820017e9fc0f759b36bced6bae217387}
+      \strng{fullhash}{820017e9fc0f759b36bced6bae217387}
+      \strng{bibnamehash}{820017e9fc0f759b36bced6bae217387}
+      \strng{authorbibnamehash}{820017e9fc0f759b36bced6bae217387}
+      \strng{authornamehash}{820017e9fc0f759b36bced6bae217387}
+      \strng{authorfullhash}{820017e9fc0f759b36bced6bae217387}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Food Processing Technology: Principles and Practice}
+      \field{edition}{3}
+      \field{title}{Heat processing}
+      \field{year}{2009}
+      \field{pages}{339\bibrangedash 366}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1533/9781845696344.3.339
+      \endverb
+    \endentry
+    \entry{E-Furuhashi2021}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=5afb2d334e4cb8ad6d0b33a15be08aff}{%
+           family={Furuhashi},
+           familyi={F\bibinitperiod},
+           given={Mai},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ee4cccbdee84d989609b77e287a841a}{%
+           family={Morimoto},
+           familyi={M\bibinitperiod},
+           given={Yuya},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2b2417fe131064333f37473754ed8e4}{%
+           family={Shima},
+           familyi={S\bibinitperiod},
+           given={Ai},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04cb9a85fe3f957783f7a9e839d97606}{%
+           family={Nakamura},
+           familyi={N\bibinitperiod},
+           given={Futoshi},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b6710c876b5a5461e6c8fa893b6f321}{%
+           family={Ishikawa},
+           familyi={I\bibinitperiod},
+           given={Hiroshi},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d36eb2a979c7ace48abda8d7f0d58d1c}{%
+           family={Takeuchi},
+           familyi={T\bibinitperiod},
+           given={Shoji},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{6a2d8df49809ee2a5f078e8ee399dac1}
+      \strng{fullhash}{49df1f96f2e0668ed5afa1df3159d9d4}
+      \strng{bibnamehash}{6a2d8df49809ee2a5f078e8ee399dac1}
+      \strng{authorbibnamehash}{6a2d8df49809ee2a5f078e8ee399dac1}
+      \strng{authornamehash}{6a2d8df49809ee2a5f078e8ee399dac1}
+      \strng{authorfullhash}{49df1f96f2e0668ed5afa1df3159d9d4}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{npj Science of Food}
+      \field{number}{6}
+      \field{title}{Formation of contractile 3D bovine muscle tissue for construction of millimetre-thick cultured steak}
+      \field{volume}{5}
+      \field{year}{2021}
+    \endentry
+    \entry{E-Gaughan2014}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f2a61c2a76302549f84f48d627edbe81}{%
+           family={Gaughan},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6aa1deaeb188abf8ff59f84e71138cf5}{%
+           family={Mader},
+           familyi={M\bibinitperiod},
+           given={T.\bibnamedelimi L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{6ff8d59f7b9c8097b6fae5225a20f933}
+      \strng{fullhash}{6ff8d59f7b9c8097b6fae5225a20f933}
+      \strng{bibnamehash}{6ff8d59f7b9c8097b6fae5225a20f933}
+      \strng{authorbibnamehash}{6ff8d59f7b9c8097b6fae5225a20f933}
+      \strng{authornamehash}{6ff8d59f7b9c8097b6fae5225a20f933}
+      \strng{authorfullhash}{6ff8d59f7b9c8097b6fae5225a20f933}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Biometeorology}
+      \field{title}{Body temperature and respiratory dynamics in un-shaded beef cattle}
+      \field{volume}{58}
+      \field{year}{2014}
+      \field{pages}{1443\bibrangedash 1450}
+      \range{pages}{8}
+    \endentry
+    \entry{E-Guyton2006}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7b346ef0d2a3867d0ee4d7d82a73d7ff}{%
+           family={Guyton},
+           familyi={G\bibinitperiod},
+           given={Arthur\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=570554af6f0e5ad0570daf633fa752c3}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Inc.}%
+      }
+      \strng{namehash}{84d71ddf61742e21d7b1d5188c1fd691}
+      \strng{fullhash}{84d71ddf61742e21d7b1d5188c1fd691}
+      \strng{bibnamehash}{84d71ddf61742e21d7b1d5188c1fd691}
+      \strng{authorbibnamehash}{84d71ddf61742e21d7b1d5188c1fd691}
+      \strng{authornamehash}{84d71ddf61742e21d7b1d5188c1fd691}
+      \strng{authorfullhash}{84d71ddf61742e21d7b1d5188c1fd691}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{11}
+      \field{isbn}{0-7216-0240-1}
+      \field{title}{Textbook of Medical Physiology}
+      \field{year}{2006}
+      \field{pages}{3}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

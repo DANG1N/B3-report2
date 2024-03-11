@@ -1,6 +1,5 @@
 % Document type, font size, margin
 \documentclass[11pt]{article}
-\usepackage[margin=20mm]{geometry}
 
 % Double spacing and indentation
 \usepackage{setspace}
@@ -8,7 +7,17 @@
 \setlength{\parindent}{0pt}
 
 \usepackage{csquotes}
-\usepackage[backend=biber]{biblatex}
+
+\usepackage[
+    backend=biber,
+    style=authoryear-icomp,
+    sortlocale=de_DE,
+    natbib=true,
+    url=false, 
+    doi=true,
+    eprint=false
+]{biblatex}
+\addbibresource{mybib.bib}
 
 % Set font to Arial (Tom Adcock)
 % \usepackage{fontspec}
@@ -39,6 +48,9 @@
 \usepackage[justification=centering]{caption}
 \usepackage{multicol}
 \setlength\parindent{20pt}
+
+% Package required for bibtex
+
 
 % Headers and footers
 \usepackage{fancyhdr} % Include the package for custom headers and footers
@@ -97,11 +109,11 @@
 \newpage
 \thispagestyle{nullheader}
 
-\begingroup\onehalfspacing
-{\small
+%\begingroup\onehalfspacing
+%{\small
 %\renewcommand{\section}[2]{}
-\begin{multicols}{2}
-\bibliographystyle{plain}
+%\begin{multicols}{2}
+%\bibliographystyle{plain}
 %\bibliographystyle{elsarticle-num}
 % \bibliographystyle{elsarticle-harv}
 % \bibliographystyle{elsarticle-num-names}
@@ -115,8 +127,9 @@
 % \bibliographystyle{model4-names}
 % \bibliographystyle{model5-names}
 % \bibliographystyle{model6-num-names}
-\bibliography{mybib}
-\end{multicols}}
-\endgroup
+%\bibliography{mybib}
+%\end{multicols}}
+%\endgroup
+\printbibliography
 
 \end{document}

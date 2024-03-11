@@ -1,0 +1,19 @@
+https://cheatography.com/jcwinkler/cheat-sheets/latex-workshop-visual-studio-code/
+
+running github:
+https://www.datacamp.com/tutorial/git-push-pull
+
+MAKE SURE TO PULL FIRST AND RESOLVE MERGING PROBLEMS BEFORE PUSHING
+
+for Biber - VS Code - LaTeX Workshop - Use settings/recipe
+
+{
+    "name": "biber",
+    "command": "biber",
+    "args": [
+        "%DOCFILE%"
+    ]
+}
+
+found  here https://tex.stackexchange.com/questions/154751/biblatex-with-biber-configuring-my-editor-to-avoid-undefined-citations/502183#502183
+
