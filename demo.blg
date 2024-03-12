@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'demo.blg'
-[126] biber-MSWIN64:340> INFO - === 
-[177] Biber.pm:419> INFO - Reading 'demo.bcf'
-[298] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[316] Biber.pm:4419> INFO - Processing section 0
-[335] Biber.pm:4610> INFO - Looking for bibtex file 'biblatex-examples.bib' for section 0
-[400] bibtex.pm:1713> INFO - LaTeX decoding ...
-[611] bibtex.pm:1519> INFO - Found BibTeX data source 'biblatex-examples.bib'
-[1185] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1185] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1191] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de_DE'
-[1191] Biber.pm:4245> INFO - No sort tailoring available for locale 'de_DE'
-[1289] bbl.pm:660> INFO - Writing 'demo.bbl' with encoding 'UTF-8'
-[1354] bbl.pm:763> INFO - Output to demo.bbl
+[120] biber-MSWIN64:340> INFO - === 
+[169] Biber.pm:419> INFO - Reading 'demo.bcf'
+[290] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[306] Biber.pm:4419> INFO - Processing section 0
+[322] Biber.pm:4610> INFO - Looking for bibtex file 'biblatex-examples.bib' for section 0
+[391] bibtex.pm:1713> INFO - LaTeX decoding ...
+[595] bibtex.pm:1519> INFO - Found BibTeX data source 'biblatex-examples.bib'
+[1168] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1168] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1169] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de_DE'
+[1169] Biber.pm:4245> INFO - No sort tailoring available for locale 'de_DE'
+[1264] bbl.pm:660> INFO - Writing 'demo.bbl' with encoding 'UTF-8'
+[1333] bbl.pm:763> INFO - Output to demo.bbl

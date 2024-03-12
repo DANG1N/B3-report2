@@ -8,6 +8,7 @@
 
 \usepackage{csquotes}
 
+% Package required for biber/biblatex
 \usepackage[
     backend=biber,
     style=authoryear-icomp,
@@ -35,26 +36,30 @@
 \renewcommand{\rmdefault}{phv} % Helvetica as the main font
 \renewcommand{\sfdefault}{phv} % Helvetica as the sans-serif font
 
-
 % Given by "Example Project"
 \usepackage[english]{babel}
 \usepackage[a4paper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
 
 % Useful packages
 \usepackage{amsmath}
+\usepackage{amssymb}
 \usepackage{graphicx}
 \usepackage{tabularx}
 \usepackage{subcaption}
 \usepackage[justification=centering]{caption}
 \usepackage{multicol}
-\setlength\parindent{20pt}
-
-% Package required for bibtex
-
-
-% Headers and footers
 \usepackage{fancyhdr} % Include the package for custom headers and footers
 \usepackage{lipsum}   % Provides sample text. Remove this in your actual document
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{fancyvrb}
+\usepackage{titlesec}
+\usepackage{bm}
+
+
+\setlength\parindent{20pt}
+
+% Headers and footers
 \pagestyle{fancy}     % Set the page style to fancy to apply your custom headers and footers
 \fancyhf{}            % Clear all header and footer fields to start fresh
 % Default header and footer settings
@@ -90,7 +95,7 @@
 
 \fancyhead[L]{}
 \fancyhead[R]{INTRODUCTION - WILL HOUGH}
-\input{will/w1-main-introduction.texmain-introduction}
+\input{will/w1-main-introduction.tex}
 
 \fancyhead[L]{}
 \fancyhead[R]{CONTROL SYSTEMS - EUNSOO CHANG}
