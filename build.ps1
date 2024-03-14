@@ -4,6 +4,8 @@ for main.tex run with:
 
 for other.tex run with
 .\build.ps1 -file other
+
+TEST
 #>
 
 param(

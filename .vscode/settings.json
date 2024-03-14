@@ -60,5 +60,10 @@
 			"language": "latex",
 			"scheme": "file"
 		}
-	]
+	],
+	"name": "biber",
+	"command": "biber",
+	"args": [
+		"%DOCFILE%"
+	],
 }
