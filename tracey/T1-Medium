@@ -1,11 +1,12 @@
 \newpage
+
 \section{Medium}
 \vspace{-3mm}
 
 % 1. Intro 
 
 \subsection{Introduction}
-
+\vspace{-3mm}
 
 The cell culture medium is an essential part of cultivated meat production as it replicates in vivo conditions necessary for cell growth. The medium is supplemented with vital components necessary for proliferation and differentiation, alongside chemicals to regulate the physiological conditions within the bioreactors. 
 
@@ -15,6 +16,8 @@ This section provides further details on the media composition (refer to paragra
 
 
 \subsection{Medium composition}
+\vspace{-3mm}
+
 
 The medium traditionally consists of two main components: the basal media and the serum.
 
@@ -39,6 +42,7 @@ The ethical concerns stem from the contradiction between this practice and the m
     \caption{Process of FBS, also known as foetal calf serum FCS,  production, }
     \label{figure:T-1-Process}
 \end{figure}
+
 Another significant disadvantage of FBS is its complexity. Many of its components remain unidentified and some may even act as growth-inhibiting factors or harbour microbes. Moreover, the composition of FBS varies from one calf to another, depending on factors such as the mother’s diet and geographical location. This variability results in inconsistent performance and high batch-to-batch variability, ultimately leading to reduced growth rates.
 
 Additionally, FBS is the most costly component of the medium, with prices exceeding \$1000 USD per litre in 2019. [5] This high cost adds financial burden to cultivated meat production.
