@@ -1,15 +1,6 @@
-documentclass[landscape,11pt]{article}
-\usepackage[a4paper,margin=20mm]{geometry}
-\renewcommand{\familydefault}{\sfdefault}
-\usepackage{graphicx}
-\usepackage{float}
-\usepackage{fancyhdr}
-\usepackage{multirow} 
-\usepackage{lipsum}
-\usepackage{array} % required for text wrapping in tables
-
-
 \begin{document}
+
+\begin{landscape}
 \begin{table}[!]
 \begin{tabular} {|l|l|l|l|l|l|l|}
 
@@ -56,7 +47,7 @@ documentclass[landscape,11pt]{article}
   \textbf{Deviation} &
   \textbf{Potential  Causes} &
   \textbf{Consequences*} &
-  \textbf{Actions Required**} \\ \hline
+  \textbf{Actions Required**}\\ \hline
    
 1.2 &
   Temperature &
@@ -107,5 +98,5 @@ documentclass[landscape,11pt]{article}
 \\
 **** In certain cases, apoptosis has been activated at temperatures as low as 30 C and as high as 39 C [3]. Given the wider margin of cell viability at lower temperatures, temperatures exceeding 39 C should be of greater concern to the operator.
 
-
+\end{landscape}
 \end{document}

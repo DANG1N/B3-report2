@@ -78,6 +78,17 @@
   \renewcommand{\footrulewidth}{0pt} % No line in the footer
 }
 
+% Text that was with the HAZOP analysis
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{fancyhdr}
+\usepackage{multirow} 
+\usepackage{lipsum}
+\usepackage{array} % required for text wrapping in tables
+\usepackage{lscape} 
+
+
 % Start of the document
 \begin{document}
 % Apply the cover page style for the cover page
@@ -114,10 +125,10 @@
 \fancyhead[R]{FINAL PRODUCT FORMULATION - EUNSOO CHANG}
 \clearpage
 
-\input{tracey/T5-HAZOP}
-\fancyhead[L]{}
-\fancyhead[R]{HAZOP - TRACEY SABER}
-\clearpage
+%\input{tracey/T5-HAZOP}
+%\fancyhead[L]{}
+%\fancyhead[R]{HAZOP - TRACEY SABER}
+%\clearpage
 
 \newpage
 \thispagestyle{nullheader}
