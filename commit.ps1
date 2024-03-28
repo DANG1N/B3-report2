@@ -3,7 +3,7 @@
 param(
     [string]$msg = "default", [string]$branch = "main"
 )
-
+git checkout $branch
 git add .
 git status
 git commit -m "automated commit: $msg"
