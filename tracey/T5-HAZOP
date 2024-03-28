@@ -1,0 +1,111 @@
+documentclass[landscape,11pt]{article}
+\usepackage[a4paper,margin=20mm]{geometry}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{fancyhdr}
+\usepackage{multirow} 
+\usepackage{lipsum}
+\usepackage{array} % required for text wrapping in tables
+
+
+\begin{document}
+\begin{table}[!]
+\begin{tabular} {|l|l|l|l|l|l|l|}
+
+\hline
+
+\textbf{Item} &
+  \textbf{\begin{tabular}[c]{@{}l@{}}Process\\Parameter\end{tabular}} &
+  \textbf{\begin{tabular}[c]{@{}l@{}}Guide \\ Word\end{tabular}} &
+  \textbf{Deviation} &
+  \textbf{Potential Causes} &
+  \textbf{Consequences*}&
+  \textbf{Actions Required**} \\ \hline
+  
+1.1 &
+  Temperature &
+  High &
+  \begin{tabular}[c]{@{}l@{}}Higher Temperature\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}Metabolic heat buildup {[}1{]}\\ \\Formation of cell lumps in\\ the bioreactor {[}1{]}\\ \\Non-homogeneous heat \\creation by the cells {[}1{]}\\ \\Controller malfunction\\ \\Faulty sensor\\ \\Bioreactor malfunction\\ \\Medium heater malfunction\\ \\Temperature wrongly set to\\cleaning and sterilization \\temperature \\(higher than 70 C)\end{tabular} &
+  
+  \begin{tabular}[c]{@{}l@{}}Increased heat stress\\on the cells\\ \\Reduced proliferation\\ \\Activation of the cell\\heat shock response\\that alters the DNA and\\ structure of the cells {[}3{]}\\ \\Higher risk of \\apoptosis (cell death)\\ and development of\\necrotic tissue\\ \\Reactor overheat\end{tabular} &
+  
+  \begin{tabular}[c]{@{}l@{}}Add a jacket to the bioreactor\\to control the temperature\\ \\Implement alarm systems to\\alert operators when the\\temperature is outside of the\\desired range (36-41 C) {[}2{]}***\\ \\Have emergency shutdown \\procedures in place and\\manual override systems\\ for excessive temperatures\\ \\Develop cooling mechanisms \\to reduce the temperature \\(preferably passive cooling \\systems to decrease the \\environmental impact {[}1{]})\\ \\Use multiple sensors\\ to ensure accurate readings\\ \\Have emergency shutdown \\procedures and manual \\override systems in place\end{tabular} \\ \hline
+
+  1.2 &
+  Temperature &
+  Low &
+  \begin{tabular}[c]{@{}l@{}}Lower\\Temperature\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}Controller malfunction\\ \\Faulty sensor\\ \\Bioreactor malfunction\end{tabular} &
+   
+  
+  \begin{tabular}[c]{@{}l@{}}Reduced proliferation\\ \\Activation of the cell cold\\ shock response, potentially\\ leading to hypothermia\end{tabular} &  
+  Covered in 1.1 \\ \hline
+
+  \end{tabular}
+\end{table}
+
+\clearpage 
+\begin{table}[H]
+\begin{tabular}{|l|l|l|l|l|l|l|}
+\hline
+\textbf{Item} &
+  \textbf{\begin{tabular}[c]{@{}l@{}}Process\\ Parameter\end{tabular}} &
+  \textbf{\begin{tabular}[c]{@{}l@{}}Guide \\ Word\end{tabular}} &
+  \textbf{Deviation} &
+  \textbf{Potential  Causes} &
+  \textbf{Consequences*} &
+  \textbf{Actions Required**} \\ \hline
+   
+1.2 &
+  Temperature &
+  Low &
+  \begin{tabular}[c]{@{}l@{}}Lower\\Temperature\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}Medium heater malfunction\\ \\
+  Bad insulation\end{tabular} &
+   
+  
+  \begin{tabular}[c]{@{}l@{}}Higher risk of apoptosis \\and development of \\necrotic tissue\\ \\Increased viral production\\for several viruses {[}3{]} \end{tabular} &  
+  Covered in 1.1 \\ \hline
+
+2.1 &
+  Stirring &
+  No &
+  No stirring &
+  \begin{tabular}[c]{@{}l@{}}Motor failure\\ \\Mechanical failure\\(gearbox, coupling, etc.)\\ \\Electrical failure \\(cables, supply, etc.)\\ \\Power supply failure\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}Accumulation of cells \\in cluster\\ \\Reduced efficiency in\\ nutrient transportation\\ \\Spatial heterogeneity of\\the environmental conditions\\(temperature, pH, etc.)\\ \\Reduced proliferation\end{tabular} &
+ 
+  \begin{tabular}[c]{@{}l@{}}Have space motors available\\ \\Add sensors to the bioreactor \\components to monitor the \\operation and detect malfunctions\\ (e.g. rotation sensor on shaft,\\current sensor on motor)\end{tabular}
+  \\ \hline
+  
+2.2 &
+  Stirring &
+  Less &
+  Less stirring &
+  \begin{tabular}[c]{@{}l@{}}Covered in 2.1\\ \\Speed of motor wrongly set\\ \\Malfunction in the drive of \\the motor\\Higher viscosity due to\\underlying issues \\(e.g. cell clumps)\end{tabular} &
+  Covered in 2.1 &
+  \begin{tabular}[c]{@{}l@{}}Covered in 2.1\end{tabular}
+ \\ \hline
+
+2.3 &
+  Stirring &
+  More &
+  More stirring &
+  Covered in 2.2 &
+  \begin{tabular}[c]{@{}l@{}}Larger shear stresses on \\the cells\\ \\Higher risk of apoptosis\\ \\Increased foaming\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}Covered in 2.1\\ \\Implement mechanisms to\\reduce foaming\end{tabular} \\ \hline
+\end{tabular}
+\end{table}
+
+\clearpage 
+\textbf{Notes:}\\
+\\
+** Poor batch quality may result from any of the mentioned deviations.\\
+\\
+*** It is necessary to carry out routine inspections and maintenance checks on bioreactor components (sensors, blades, pipes, etc.). This is essential to ensure optimal performance across all process parameters. \\
+\\
+**** In certain cases, apoptosis has been activated at temperatures as low as 30 C and as high as 39 C [3]. Given the wider margin of cell viability at lower temperatures, temperatures exceeding 39 C should be of greater concern to the operator.
+
+
+\end{document}
