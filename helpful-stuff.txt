@@ -18,14 +18,16 @@ UPLOAD YOUR CHANGES
 git add .
 git status
 git commit -m "MESSAGE CONTAINING YOUR CHANGES"
-git push -u origin master
-
+git push -u origin main
 
 MAKE SURE TO PULL FIRST AND RESOLVE MERGING PROBLEMS BEFORE PUSHING
 
 MORE HELP HERE 
 running git:
 https://www.datacamp.com/tutorial/git-push-pull
+
+ALSO CHECK WHICH BRANCH YOU ARE ON IF YOU AREN'T PULLING THE RIGHT DATA. YOU SHOULD BE ON branch: main
+git checkout main
 
 ----------------------------------------------------------------------------------------------------------
 
@@ -44,3 +46,15 @@ found  here https://tex.stackexchange.com/questions/154751/biblatex-with-biber-c
 BIBER/BIBTEX HELP
 COMMANDS : https://tex.stackexchange.com/questions/541559/citep-vs-parencite
 SETUP : https://tex.stackexchange.com/questions/13509/biblatex-in-a-nutshell-for-beginners
+
+----------------------------------------------------------------------------------------------------------
+build.ps1
+
+This script creates compiles the passed .tex file and places it in the PDF directory
+for main.tex run with:
+.\build.ps1
+
+for other .tex files run with
+.\build.ps1 -file [filename]
+
+it will also look for .blg & .bcf files with the same prefix for the bibliography. Please don't rewrite the script :')
