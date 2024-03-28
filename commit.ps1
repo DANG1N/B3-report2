@@ -1,15 +1,15 @@
-<# This script creates automatically adds, commits and pushes to the chosen branch #>
+<# This script creates automatically adds, commits and pushes to the main branch #>
 
 param(
-    [string]$msg = "default", [string]$branch = "main"
+    [string]$msg = "default"
 )
-git checkout $branch
+
 git add .
 git status
 git commit -m "automated commit: $msg"
-$confirmation = Read-Host "Happy? [y/n]"
+$confirmation = Read-Host "Happy to push? [y/n]"
 while ($confirmation -ne "y") {
     if ($confirmation -eq 'n') { exit }
     $confirmation = Read-Host "Ready? [y/n]"
 }
-git push -u origin $branch
+git push -u origin main
