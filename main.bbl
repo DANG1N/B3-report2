@@ -339,6 +339,301 @@
       \field{pages}{3}
       \range{pages}{1}
     \endentry
+    \entry{Hemeda2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b387b4436049720f3a7d7484d4fc22d4}{%
+           family={Hemeda},
+           familyi={H\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fde49ff915151443abed541a9c8d1ca4}{%
+           family={Giebel},
+           familyi={G\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f05914b095d98d63a98e165f3f99b6bf}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4f9d555776c7992b8699fd9aba58642e}
+      \strng{fullhash}{4f9d555776c7992b8699fd9aba58642e}
+      \strng{bibnamehash}{4f9d555776c7992b8699fd9aba58642e}
+      \strng{authorbibnamehash}{4f9d555776c7992b8699fd9aba58642e}
+      \strng{authornamehash}{4f9d555776c7992b8699fd9aba58642e}
+      \strng{authorfullhash}{4f9d555776c7992b8699fd9aba58642e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cytotherapy}
+      \field{number}{2}
+      \field{title}{Evaluation of human platelet lysate versus fetal bovine serum for culture of mesenchymal stromal cells}
+      \field{volume}{16}
+      \field{year}{2014}
+      \field{pages}{170\bibrangedash 80}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.jcyt.2013.11.004
+      \endverb
+    \endentry
+    \entry{GFI2021}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d4216f1d251d9ef07af910bcba359f4c}{%
+           family={Institute},
+           familyi={I\bibinitperiod},
+           given={The\bibnamedelimb Good\bibnamedelima Food},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d4216f1d251d9ef07af910bcba359f4c}
+      \strng{fullhash}{d4216f1d251d9ef07af910bcba359f4c}
+      \strng{bibnamehash}{d4216f1d251d9ef07af910bcba359f4c}
+      \strng{authorbibnamehash}{d4216f1d251d9ef07af910bcba359f4c}
+      \strng{authornamehash}{d4216f1d251d9ef07af910bcba359f4c}
+      \strng{authorfullhash}{d4216f1d251d9ef07af910bcba359f4c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 28 March 2024}
+      \field{title}{Cultivated meat cell culture media: Deep Dive}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://gfi.org/science/the-science-of-cultivated-meat/deep-dive-cultivated-meat-cell-culture-media/
+      \endverb
+      \verb{url}
+      \verb https://gfi.org/science/the-science-of-cultivated-meat/deep-dive-cultivated-meat-cell-culture-media/
+      \endverb
+    \endentry
+    \entry{Jochems2002}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8871329593d367cbc2aee13cf57d52d9}{%
+           family={Jochems},
+           familyi={J\bibinitperiod},
+           given={C.\bibnamedelimi E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8e933b0df74c7f2ed458279f2678b32}{%
+           family={Valk},
+           familyi={V\bibinitperiod},
+           given={J.\bibnamedelimi B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=9cb1abc9dd2f2544c94dd70b3dbcc005}{%
+           family={Stafleu},
+           familyi={S\bibinitperiod},
+           given={F.\bibnamedelimi R.},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=78fdc03b0c9505bdd1223dc6ccb0c47e}{%
+           family={Baumans},
+           familyi={B\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{59c6bb042b7aa55a94e391d2cbc2635c}
+      \strng{fullhash}{bc68186b3f17889265190901fe45eb88}
+      \strng{bibnamehash}{59c6bb042b7aa55a94e391d2cbc2635c}
+      \strng{authorbibnamehash}{59c6bb042b7aa55a94e391d2cbc2635c}
+      \strng{authornamehash}{59c6bb042b7aa55a94e391d2cbc2635c}
+      \strng{authorfullhash}{bc68186b3f17889265190901fe45eb88}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Altern Lab Anim}
+      \field{number}{2}
+      \field{title}{The use of fetal bovine serum: ethical or scientific problem?}
+      \field{volume}{30}
+      \field{year}{2002}
+      \field{pages}{219\bibrangedash 27}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1177/026119290203000208
+      \endverb
+    \endentry
+    \entry{Shen2012}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=451f8e5c62fbec604f0d298fd364254e}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3280b71ae6a5a299509d1a8ee0d599d6}{%
+           family={Ly},
+           familyi={L\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70bc4487d5acd3b95bd8948965232c51}{%
+           family={Hoang},
+           familyi={H\bibinitperiod},
+           given={Yvonne},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{02c50ca6fb7d5bac0ea3908c85008682}
+      \strng{fullhash}{02c50ca6fb7d5bac0ea3908c85008682}
+      \strng{bibnamehash}{02c50ca6fb7d5bac0ea3908c85008682}
+      \strng{authorbibnamehash}{02c50ca6fb7d5bac0ea3908c85008682}
+      \strng{authornamehash}{02c50ca6fb7d5bac0ea3908c85008682}
+      \strng{authorfullhash}{02c50ca6fb7d5bac0ea3908c85008682}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{5}
+      \field{title}{Human Stem Cell Manual}
+      \field{year}{2012}
+      \field{pages}{53\bibrangedash 69}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/B978-0-12-385473-5.00005-9
+      \endverb
+    \endentry
+    \entry{Subbiahanadar2021}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=4c1f1643b7ea35c1f2a024aa4ab6ecd9}{%
+           family={Subbiahanadar\bibnamedelima Chelladurai},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d821c9cc867e4b07a1de9b5a06ff690}{%
+           family={Selvan\bibnamedelima Christyraj},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={JD},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c685f27192a1572f1cbf1a41b35d34d6}{%
+           family={Rajagopalan},
+           familyi={R\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e107311ec8015d856642dcc5ecaf164a}{%
+           family={Yesudhason},
+           familyi={Y\bibinitperiod},
+           given={BV},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a84a9f14c2786485e6dc2c266b8e4eac}{%
+           family={Venkatachalam},
+           familyi={V\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1aec1ded717193607e67d20a72717b3d}{%
+           family={Mohan},
+           familyi={M\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e08e2dfaed79fe3157d600e94a349135}{%
+           family={Chellathurai\bibnamedelima Vasantha},
+           familyi={C\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=41ba020b192f364f35ea03491c6d4776}{%
+           family={Selvan\bibnamedelima Christyraj},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={JRS},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dfd86bda0eeb6b386806258f557051ab}
+      \strng{fullhash}{5adc1d94a915525b93774e933e7f762d}
+      \strng{bibnamehash}{dfd86bda0eeb6b386806258f557051ab}
+      \strng{authorbibnamehash}{dfd86bda0eeb6b386806258f557051ab}
+      \strng{authornamehash}{dfd86bda0eeb6b386806258f557051ab}
+      \strng{authorfullhash}{5adc1d94a915525b93774e933e7f762d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Heliyon}
+      \field{month}{7}
+      \field{number}{8}
+      \field{title}{Alternative to FBS in animal cell culture - An overview and future perspective}
+      \field{volume}{7}
+      \field{year}{2021}
+      \field{pages}{e07686}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.heliyon.2021.e07686
+      \endverb
+    \endentry
+    \entry{Tyagi_2023}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0edd3aa5c5c70bd47954e365bbc7f7f9}{%
+           family={Tyagi},
+           familyi={T\bibinitperiod},
+           given={Sakshi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79b58af41e1d4275d55555575f9cfeab}{%
+           family={Mani},
+           familyi={M\bibinitperiod},
+           given={Shalini},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{45138e20f6aed09b4bcc79f180a82eb4}
+      \strng{fullhash}{45138e20f6aed09b4bcc79f180a82eb4}
+      \strng{bibnamehash}{45138e20f6aed09b4bcc79f180a82eb4}
+      \strng{authorbibnamehash}{45138e20f6aed09b4bcc79f180a82eb4}
+      \strng{authornamehash}{45138e20f6aed09b4bcc79f180a82eb4}
+      \strng{authorfullhash}{45138e20f6aed09b4bcc79f180a82eb4}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Animal Cell Culture: Principles and Practice}
+      \field{isbn}{9783031194856}
+      \field{issn}{2367-1122}
+      \field{title}{Media and Buffer Preparation for Cell Culture}
+      \field{year}{2023}
+      \field{pages}{77\bibrangedash 88}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/978-3-031-19485-6_5
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1007/978-3-031-19485-6_5
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/978-3-031-19485-6_5
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
