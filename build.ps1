@@ -17,5 +17,5 @@ pdflatex $file
 pdflatex $file
 $FROM = "$file.pdf"
 $TO = "PDF/$file.pdf"
-del $TO
-mv $FROM $TO
+Remove-Item $TO
+Move-Item $FROM $TO
