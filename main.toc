@@ -1,16 +1,21 @@
 \babel@toc {english}{}\relax 
 \contentsline {section}{\numberline {1}Example}{4}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Example NUMBERED subsection (no * in environment)}{4}{subsection.1.1}%
-\contentsline {section}{\numberline {2}Control systems}{6}{section.2}%
+\contentsline {section}{\numberline {2}Medium}{6}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Introduction}{6}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Temperature control}{6}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Introduction}{6}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}Methods}{7}{subsubsection.2.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.3}Results}{8}{subsubsection.2.2.3}%
-\contentsline {subsubsection}{\numberline {2.2.4}Discussion}{9}{subsubsection.2.2.4}%
-\contentsline {subsection}{\numberline {2.3}Oxygen control}{10}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Acidity control}{11}{subsection.2.4}%
-\contentsline {section}{\numberline {3}Purification methods}{12}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Lactic acid purification}{12}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Ammonia purification}{13}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Final product formulation}{14}{section.4}%
+\contentsline {subsection}{\numberline {2.2}Medium composition}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Moving away from FBS}{7}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Summary}{8}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Control systems}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Introduction}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Temperature control}{9}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Introduction}{9}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Methods}{10}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Results}{11}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Discussion}{12}{subsubsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.3}Oxygen control}{13}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Acidity control}{14}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Purification methods}{15}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Lactic acid purification}{15}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Ammonia purification}{16}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Final product formulation}{17}{section.5}%
