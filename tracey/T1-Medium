@@ -1,1 +1,57 @@
-gi
+\newpage
+
+\section{Medium}
+\vspace{-3mm}
+
+% 1. Intro 
+
+\subsection{Introduction}
+\vspace{-3mm}
+
+The cell culture medium is an essential part of cultivated meat production as it replicates in vivo conditions necessary for cell growth. The medium is supplemented with vital components necessary for proliferation and differentiation, alongside chemicals to regulate the physiological conditions within the bioreactors. 
+
+A substance known as Foetal Bovine Serum (FBS) is commonly added to the medium to enrich it with key proteins and growth hormones. However, researchers are in search of alternatives and aim to phase out its use in the near future (\cite{Subbiahanadar2021}). 
+
+This section provides further details on the media composition (refer to paragraph 4.1) and explores why FBS should be excluded (refer to paragraph 4.2). 
+
+
+\subsection{Medium composition}
+\vspace{-3mm}
+
+
+The medium traditionally consists of two main components: the basal media and the serum.
+
+The basal medium contains many nutrients such as glucose, glutamine, amino acids, and vitamins, necessary for cell survival. Additionally, inorganic salts are supplemented to maintain the fluid at the right osmolarity, while buffering agents like HEPES stabilise the pH levels. To reduce costs, the buffering agents can be substituted with natural buffering processes with CO2 and HCO3 to reduce costs (\cite*{Tyagi_2023}). Traces elements such as copper or zinc can also be found in the medium. Various media formulations are commercially available and provide different nutrient compositions tailored to specific cell types. Examples include MEM, Ham's F-10, DMEM/F-12 (used for proliferation – section 5.2), Leibovitz’s L-15 and Neurobasal (used for differentiation – section 6.3). 
+
+Although researchers commonly add antibiotics to mitigate the risk of microbial infections, their use conflicts with the project's principles and, therefore, will not be considered for the mediums.
+
+The serum component provides hormones (e.g. insulin), proteins (e.g. albumin and transferrin) and growth factors (e.g. fibroblast growth factor (FGF) and epidermal growth factor (EGF)) and various other chemicals that ensure cell growth (\cite*{Shen2012}). Historically, foetal bovine serum (FBS) has been the predominant serum used for bovine cell culture. Alternative options have been found but many are less effective.
+
+
+
+\subsection{Moving away from FBS}
+
+Researchers are striving to eliminate the use of FBS due to numerous concerns, particularly ethical ones. One major issue is the ethical implications surrounding the production of FBS, as depicted in Figure 1. Foetal Bovine Serum is harvested after the slaughter pregnant cows that are further along in gestation than the first trimester. To ensure low clotting and a large presence of growth factors, blood is extracted from the beating heart of the foetus before its eventual death. The blood is then left to clot and the clotted elements are filtered out, yielding the Foetal Bovine Serum (\cite*{Jochems2002}).
+
+The ethical concerns stem from the contradiction between this practice and the mission of cultivated meat to reduce animal suffering and minimise reliance  on cattle in the meat industry. Furthermore, there are concerns that the foetus may experience pain and distress during the extraction procedure, as it is still alive at that stage (\cite*{Subbiahanadar2021}).
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\textwidth]{tracey/T-1-Process.png}
+    \hfill
+    \caption{Process of FBS, also known as foetal calf serum FCS, (\cite*{Hemeda2014}) }
+    \label{figure:T-1-Process}
+\end{figure}
+
+Another significant disadvantage of FBS is its complexity. Many of its components remain unidentified and some may even act as growth-inhibiting factors or harbour microbes. Moreover, the composition of FBS varies from one calf to another, depending on factors such as the mother’s diet and geographical location. This variability results in inconsistent performance and high batch-to-batch variability, ultimately leading to reduced growth rates.
+
+Additionally, FBS is the most costly component of the medium, with prices exceeding \$1000 USD per litre in 2019 (\cite*{GFI2021}). This high cost adds financial burden to cultivated meat production.
+
+Consequently, there are overwhelming reasons to move away from the use of FBS. This is however a difficult task because of the complexity of the serum that needs to be replicated. 
+
+
+\subsection{Summary}
+
+For the reasons listed above, this study only considers serum-free media, which then consist of the basal media and serum-alternatives. Since proliferation and differentiation are different processes, different mediums are considered for each. Refer to section 5.2 for further details on the growth medium selection and section 6.3 for the differentiation medium selection.
+
+
