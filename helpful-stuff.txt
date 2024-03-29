@@ -12,19 +12,20 @@ OPEN YOUR B3 FOLDER WITH:
 cd FOLDERPATH
 git init 
 git remote add origin 'https://github.com/DANG1N/B3-report2/'
-git pull
+git pull -u origin main
 
 WHEN YOU START:
 git init
-git pull
+git pull -u origin main
 
+*THE -U FLAG SETS THE REMOTE & BRANCH SO LATER YOU CAN JUST USE git pull OR git push WITHOUT REMOTE/BRANCH ARGUMENTS:)
 DO YOUR WORK 
 
 UPLOAD YOUR CHANGES
 git add .
 git status
 git commit -m "MESSAGE CONTAINING YOUR CHANGES"
-git push -u origin main
+git push
 
 MAKE SURE TO PULL FIRST AND RESOLVE MERGING PROBLEMS BEFORE PUSHING
 
