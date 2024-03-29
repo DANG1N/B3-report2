@@ -302,6 +302,56 @@
       \field{pages}{1443\bibrangedash 1450}
       \range{pages}{8}
     \endentry
+    \entry{big_bioprocess}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=165db613d775bbf5d222a9649de39960}{%
+           family={Guan},
+           familyi={G\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef49c46818ad29b72631eb82007b2054}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=afd3f8192eeda130355fa13301848aab}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38241eaee18102cab15a125b0654c7da}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a0fef52bd1cda27c106e72269f302f1a}
+      \strng{fullhash}{5694fe6c0f6993d043e068bd8a7224fe}
+      \strng{bibnamehash}{a0fef52bd1cda27c106e72269f302f1a}
+      \strng{authorbibnamehash}{a0fef52bd1cda27c106e72269f302f1a}
+      \strng{authornamehash}{a0fef52bd1cda27c106e72269f302f1a}
+      \strng{authorfullhash}{5694fe6c0f6993d043e068bd8a7224fe}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trends in Biotechnology}
+      \field{number}{6}
+      \field{title}{Bioprocessing technology of muscle stem cells: implications for cultured meat}
+      \field{volume}{40}
+      \field{year}{2022}
+      \field{pages}{721\bibrangedash 734}
+      \range{pages}{14}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.tibtech.2021.11.004
+      \endverb
+    \endentry
     \entry{E-Guyton2006}{book}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=7b346ef0d2a3867d0ee4d7d82a73d7ff}{%
@@ -383,37 +433,6 @@
       \verb 10.1016/j.jcyt.2013.11.004
       \endverb
     \endentry
-    \entry{GFI2021}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d4216f1d251d9ef07af910bcba359f4c}{%
-           family={Institute},
-           familyi={I\bibinitperiod},
-           given={The\bibnamedelimb Good\bibnamedelima Food},
-           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{d4216f1d251d9ef07af910bcba359f4c}
-      \strng{fullhash}{d4216f1d251d9ef07af910bcba359f4c}
-      \strng{bibnamehash}{d4216f1d251d9ef07af910bcba359f4c}
-      \strng{authorbibnamehash}{d4216f1d251d9ef07af910bcba359f4c}
-      \strng{authornamehash}{d4216f1d251d9ef07af910bcba359f4c}
-      \strng{authorfullhash}{d4216f1d251d9ef07af910bcba359f4c}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Accessed: 28 March 2024}
-      \field{title}{Cultivated meat cell culture media: Deep Dive}
-      \field{year}{2021}
-      \verb{urlraw}
-      \verb https://gfi.org/science/the-science-of-cultivated-meat/deep-dive-cultivated-meat-cell-culture-media/
-      \endverb
-      \verb{url}
-      \verb https://gfi.org/science/the-science-of-cultivated-meat/deep-dive-cultivated-meat-cell-culture-media/
-      \endverb
-    \endentry
     \entry{Jochems2002}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=8871329593d367cbc2aee13cf57d52d9}{%
@@ -465,6 +484,34 @@
       \range{pages}{9}
       \verb{doi}
       \verb 10.1177/026119290203000208
+      \endverb
+    \endentry
+    \entry{mosameat}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9d2503f815c40f99b9b0087c881f3b97}{%
+           family={{Mosa Meat}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{9d2503f815c40f99b9b0087c881f3b97}
+      \strng{fullhash}{9d2503f815c40f99b9b0087c881f3b97}
+      \strng{bibnamehash}{9d2503f815c40f99b9b0087c881f3b97}
+      \strng{authorbibnamehash}{9d2503f815c40f99b9b0087c881f3b97}
+      \strng{authornamehash}{9d2503f815c40f99b9b0087c881f3b97}
+      \strng{authorfullhash}{9d2503f815c40f99b9b0087c881f3b97}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; last accessed <29-03-2024>]}
+      \field{title}{Growth Medium without Fetal Bovine Serum (FBS)}
+      \field{year}{17-01-2023}
+      \verb{urlraw}
+      \verb https://mosameat.com/blog/growth-medium-without-fetal-bovine-serum-fbs
+      \endverb
+      \verb{url}
+      \verb https://mosameat.com/blog/growth-medium-without-fetal-bovine-serum-fbs
       \endverb
     \endentry
     \entry{Shen2012}{book}{}
@@ -585,6 +632,34 @@
       \range{pages}{-1}
       \verb{doi}
       \verb 10.1016/j.heliyon.2021.e07686
+      \endverb
+    \endentry
+    \entry{GFI2021}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4d645988983e75101f69a9ce62eade8f}{%
+           family={{The Good Food Institute}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d645988983e75101f69a9ce62eade8f}
+      \strng{fullhash}{4d645988983e75101f69a9ce62eade8f}
+      \strng{bibnamehash}{4d645988983e75101f69a9ce62eade8f}
+      \strng{authorbibnamehash}{4d645988983e75101f69a9ce62eade8f}
+      \strng{authornamehash}{4d645988983e75101f69a9ce62eade8f}
+      \strng{authorfullhash}{4d645988983e75101f69a9ce62eade8f}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Online; Last accessed: 28 March 2024}
+      \field{title}{Cultivated meat cell culture media: Deep Dive}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://gfi.org/science/the-science-of-cultivated-meat/deep-dive-cultivated-meat-cell-culture-media/
+      \endverb
+      \verb{url}
+      \verb https://gfi.org/science/the-science-of-cultivated-meat/deep-dive-cultivated-meat-cell-culture-media/
       \endverb
     \endentry
     \entry{Tyagi_2023}{inbook}{}

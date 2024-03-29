@@ -21,11 +21,11 @@ This section provides further details on the media composition (refer to paragra
 
 The medium traditionally consists of two main components: the basal media and the serum.
 
-The basal medium contains many nutrients such as glucose, glutamine, amino acids, and vitamins, necessary for cell survival. Additionally, inorganic salts are supplemented to maintain the fluid at the right osmolarity, while buffering agents like HEPES stabilise the pH levels. To reduce costs, the buffering agents can be substituted with natural buffering processes with CO2 and HCO3 to reduce costs (\cite*{Tyagi_2023}). Traces elements such as copper or zinc can also be found in the medium. Various media formulations are commercially available and provide different nutrient compositions tailored to specific cell types. Examples include MEM, Ham's F-10, DMEM/F-12 (used for proliferation – section 5.2), Leibovitz’s L-15 and Neurobasal (used for differentiation – section 6.3). 
+The \textbf{basal medium} contains many nutrients such as glucose, glutamine, amino acids, and vitamins, necessary for cell survival. Additionally, inorganic salts are supplemented to maintain the fluid at the right osmolarity, while buffering agents like HEPES stabilise the pH levels. To reduce costs, the buffering agents can be substituted with natural buffering processes with CO2 and HCO3 to reduce costs (\cite*{Tyagi_2023}). Traces elements such as copper or zinc can also be found in the medium. Various media formulations are commercially available and provide different nutrient compositions tailored to specific cell types. Examples include MEM, Ham's F-10, DMEM/F-12 (used for proliferation – section 5.2), Leibovitz’s L-15 and Neurobasal (used for differentiation – section 6.3). 
 
-Although researchers commonly add antibiotics to mitigate the risk of microbial infections, their use conflicts with the project's principles and, therefore, will not be considered for the mediums.
+Although researchers commonly add \textbf{antibiotics} to mitigate the risk of microbial infections, their use conflicts with the project's principles and, therefore, will not be considered for the mediums.
 
-The serum component provides hormones (e.g. insulin), proteins (e.g. albumin and transferrin) and growth factors (e.g. fibroblast growth factor (FGF) and epidermal growth factor (EGF)) and various other chemicals that ensure cell growth (\cite*{Shen2012}). Historically, foetal bovine serum (FBS) has been the predominant serum used for bovine cell culture. Alternative options have been found but many are less effective.
+The \textbf{serum} component provides hormones (e.g. insulin), proteins (e.g. albumin and transferrin) and growth factors (e.g. fibroblast growth factor (FGF) and epidermal growth factor (EGF)) and various other chemicals that ensure cell growth (\cite*{Shen2012}). Historically, foetal bovine serum (FBS) has been the predominant serum used for bovine cell culture. Alternative options have been found but many are less effective.
 
 
 
@@ -49,6 +49,9 @@ Additionally, FBS is the most costly component of the medium, with prices exceed
 
 Consequently, there are overwhelming reasons to move away from the use of FBS. This is however a difficult task because of the complexity of the serum that needs to be replicated. 
 
+\subsection{Consideration}
+
+Many leading cultured meat companies, such as Mosa Meat and Future Meat, have claimed to have serum-free processes (\cite*{big_bioprocess},\cite*{mosameat}). However, due to the competitive advantage it provides them, the medium formulations have been kept secret. We will consequently consider media available on academic platforms, which are likely to be less efficient. 
 
 \subsection{Summary}
 
