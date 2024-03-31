@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.23)  29 MAR 2024 13:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.23)  29 MAR 2024 13:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -765,6 +765,18 @@ Package bm Info: No bold for \U/msa/m/n, using \pmb.
 Package bm Info: No bold for \U/msb/m/n, using \pmb.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
 )
+(d:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(d:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(d:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
 (d:/texlive/2023/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count444
@@ -779,9 +791,6 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@cntb=\count445
 \multirow@dima=\skip92
 \bigstrutjot=\dimen194
-)
-(d:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
-Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 (d:/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
@@ -812,7 +821,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 93
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 94
 .
 
 (d:/texlive/2023/texmf-dist/tex/latex/psnfss/t1phv.fd
@@ -820,24 +829,24 @@ File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -850,11 +859,11 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 93.
-Package biblatex Info: Reference segment=0 on input line 93.
+Package biblatex Info: ... file 'main.bbl' not found.
 
+No file main.bbl.
+Package biblatex Info: Reference section=0 on input line 94.
+Package biblatex Info: Reference segment=0 on input line 94.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -915,7 +924,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 93.
+Package hyperref Info: Link coloring OFF on input line 94.
 
 (./main.out) (./main.out)
 \@outlinefile=\write5
@@ -931,24 +940,14 @@ Package pdftex.def Info: y0-oxford.jpg  used on input line 8.
 
 {d:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/texlive/2023/
 texmf-dist/fonts/enc/dvips/base/8r.enc} <./y0-oxford.jpg>] (./z2-table-of-conte
-nts.tex (./main.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
-
-(d:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
-
-(d:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+nts.tex (./main.toc)
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
-) [2
+)
+[2
 
-]
-(./technical-writing.tex
+] (./technical-writing.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -959,18 +958,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--28
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 33--105
+Underfull \hbox (badness 10000) in paragraph at lines 33--106
 
  []
 
 [3
 
 ] (./will/w1-main-introduction.tex
-<will/example-image.jpg, id=122, 288.3573pt x 216.81pt>
+<will/example-image.jpg, id=102, 288.3573pt x 216.81pt>
 File: will/example-image.jpg Graphic file (type jpg)
 <use will/example-image.jpg>
 Package pdftex.def Info: will/example-image.jpg  used on input line 13.
 (pdftex.def)             Requested size: 320.0935pt x 240.6818pt.
+
+
+LaTeX Warning: Citation 'E-Cannon2022' on page 4 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'E-Cannon2022' on page 4 undefined on input line 15.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
+
+(d:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
+
+
+(d:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 3
 3.
 
@@ -981,34 +998,100 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 34.
  [4
 
- <./will/example-image.jpg>]) (./tracey/T1-Medium [5] [6]
-<tracey/T-1-Process.png, id=163, 358.722pt x 113.661pt>
+ <./will/example-image.jpg>]) (./tracey/T1-Medium [5]
+
+LaTeX Warning: Citation 'Subbiahanadar2021' on page 6 undefined on input line 1
+3.
+
+
+LaTeX Warning: Citation 'Tyagi_2023' on page 6 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'Shen2012' on page 6 undefined on input line 28.
+
+[6]
+
+LaTeX Warning: Citation 'Jochems2002' on page 7 undefined on input line 34.
+
+
+LaTeX Warning: Citation 'Subbiahanadar2021' on page 7 undefined on input line 3
+6.
+
+
+Overfull \hbox (17.2389pt too wide) in paragraph at lines 36--37
+\T1/phv/m/n/10.95 dis-tress dur-ing the ex-trac-tion pro-ce-dure, as it is stil
+l alive at that stage ([]). 
+ []
+
+<tracey/T-1-Process.png, id=133, 358.722pt x 113.661pt>
 File: tracey/T-1-Process.png Graphic file (type png)
 <use tracey/T-1-Process.png>
 Package pdftex.def Info: tracey/T-1-Process.png  used on input line 40.
 (pdftex.def)             Requested size: 320.0935pt x 101.42157pt.
- [7 <./tracey/T-1-Process.png>])
-(./eunsoo/z3-control-T.tex [8]
-<eunsoo/E-1-1-control-system.png, id=189, 623.83063pt x 211.28937pt>
+
+LaTeX Warning: Citation 'Hemeda2014' on page 7 undefined on input line 42.
+
+
+LaTeX Warning: Citation 'Hemeda2014' on page 7 undefined on input line 42.
+
+
+LaTeX Warning: Citation 'GFI2021' on page 7 undefined on input line 48.
+
+[7 <./tracey/T-1-Process.png>]) (./eunsoo/z3-control-T.tex [8]
+
+LaTeX Warning: Citation 'E-Guyton2006' on page 9 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'E-Aging2022' on page 9 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'E-Donaldson2013' on page 9 undefined on input line 12.
+
+
+<eunsoo/E-1-1-control-system.png, id=147, 623.83063pt x 211.28937pt>
 File: eunsoo/E-1-1-control-system.png Graphic file (type png)
 <use eunsoo/E-1-1-control-system.png>
 Package pdftex.def Info: eunsoo/E-1-1-control-system.png  used on input line 20
 .
 (pdftex.def)             Requested size: 320.0935pt x 108.41707pt.
- [9 <./eunsoo/E-1-1-control-system.png>]
-<eunsoo/E-1-2-heat-exchangers.png, id=204, 428.09938pt x 268.50313pt>
+
+LaTeX Warning: Citation 'E-Cannon2022' on page 9 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'E-Cannon2022' on page 9 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'E-Gaughan2014' on page 9 undefined on input line 33.
+
+
+Overfull \hbox (5.1419pt too wide) in paragraph at lines 33--34
+\T1/phv/m/n/10.95 The body tem-per-a-ture of beef cat-tle should be main-tained
+ at $\OT1/cmr/m/n/10.95 39\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6 \OMS/cmsy/m
+/n/10.95 ^^F \OT1/cmr/m/n/10.95 0\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1[]\OM
+L/cmm/m/it/10.95 C$ []\T1/phv/m/n/10.95 .
+ []
+
+[9 <./eunsoo/E-1-1-control-system.png>]
+<eunsoo/E-1-2-heat-exchangers.png, id=155, 428.09938pt x 268.50313pt>
 File: eunsoo/E-1-2-heat-exchangers.png Graphic file (type png)
 <use eunsoo/E-1-2-heat-exchangers.png>
 Package pdftex.def Info: eunsoo/E-1-2-heat-exchangers.png  used on input line 4
 3.
 (pdftex.def)             Requested size: 213.39568pt x 133.84152pt.
 
+
+LaTeX Warning: Citation 'E-Doran2013' on page 10 undefined on input line 45.
+
+
+LaTeX Warning: Citation 'E-Doran2013' on page 10 undefined on input line 45.
+
+
 Overfull \hbox (0.27243pt too wide) in paragraph at lines 50--51
 []\T1/phv/m/n/10.95 Theoretically, the heat ex-changer's work-ing fluid tem-per
 -a-ture $\OML/cmm/m/it/10.95 T[]$ \T1/phv/m/n/10.95 con-trols the biore-
  []
 
-<eunsoo/E-1-3-digital-control-system.png, id=208, 649.42625pt x 355.82938pt>
+<eunsoo/E-1-3-digital-control-system.png, id=157, 649.42625pt x 355.82938pt>
 File: eunsoo/E-1-3-digital-control-system.png Graphic file (type png)
 <use eunsoo/E-1-3-digital-control-system.png>
 Package pdftex.def Info: eunsoo/E-1-3-digital-control-system.png  used on input
@@ -1017,14 +1100,41 @@ Package pdftex.def Info: eunsoo/E-1-3-digital-control-system.png  used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10 <./eunsoo/E-1-2-heat-exchangers.png>] [11 <./eunsoo/E-1-3-digital-control-s
-ystem.png>]
+[10 <./eunsoo/E-1-2-heat-exchangers.png>]
+
+LaTeX Warning: Citation 'E-Furuhashi2021' on page 11 undefined on input line 99
+.
+
+
+LaTeX Warning: Citation 'E-Fellows2009' on page 11 undefined on input line 99.
+
+
+Overfull \hbox (22.96599pt too wide) in paragraph at lines 99--100
+\T1/phv/m/n/10.95 The wet cell mass of $\OT1/cmr/m/n/10.95 3\OML/cmm/m/it/10.95
+ :\OT1/cmr/m/n/10.95 5 \OMS/cmsy/m/n/10.95 ^^B \OT1/cmr/m/n/10.95 10[] \OML/cmm
+/m/it/10.95 kg=cell$ \T1/phv/m/n/10.95 and the cell di-am-e-ter of $\OT1/cmr/m/
+n/10.95 295 \OMS/cmsy/m/n/10.95 ^^B \OT1/cmr/m/n/10.95 10[] \OML/cmm/m/it/10.95
+ m$ []
+ []
+
+[11 <./eunsoo/E-1-3-digital-control-system.png>]
+
+LaTeX Warning: Citation 'E-Cannon2022-2' on page 12 undefined on input line 117
+.
+
+
 Overfull \hbox (19.69516pt too wide) in paragraph at lines 117--118
 []\T1/phv/m/n/10.95 One of the most com-monly used con-trollers in the pro-cess
  con-trol in-dus-try is proportional-
  []
 
-<eunsoo/E-1-4-step-and-impulse.jpg, id=238, 843.15pt x 632.3625pt>
+
+Overfull \hbox (13.01578pt too wide) in paragraph at lines 117--118
+\T1/phv/m/n/10.95 di-tion that "the low-frequency asymp-tote of the Nyquist on 
+the $\OML/cmm/m/it/10.95 M \OT1/cmr/m/n/10.95 = 1$ \T1/phv/m/n/10.95 line" [],
+ []
+
+<eunsoo/E-1-4-step-and-impulse.jpg, id=183, 843.15pt x 632.3625pt>
 File: eunsoo/E-1-4-step-and-impulse.jpg Graphic file (type jpg)
 <use eunsoo/E-1-4-step-and-impulse.jpg>
 Package pdftex.def Info: eunsoo/E-1-4-step-and-impulse.jpg  used on input line 
@@ -1038,53 +1148,32 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 (./eunsoo/z7-purify-NH3.tex) (./eunsoo/z8-final-product.tex [16
 
 ]) [17]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-63.
+(./tracey/T5-HAZOP
 
-(d:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-) [18
+! LaTeX Error: Can be used only in preamble.
 
-{d:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [19] (./
-main.aux)
- ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
- ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 69C27C107BDF6B550D50F9935BBB8C6F;2782.
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{document}
+                    
+? 
+! TeX capacity exceeded, sorry [input stack size=10000].
+\LS@makefcolumn #1->\LS@makefcolumn {#1
+                                       }\LS@rot 
+l.3 \begin{landscape}
+                     
+If you really absolutely need more capacity,
+you can ask a wizard to enlarge me.
 
- ) 
+ 
 Here is how much of TeX's memory you used:
- 23324 strings out of 474166
- 405013 string characters out of 5749518
- 1938542 words of memory out of 5000000
- 45224 multiletter control sequences out of 15000+600000
- 596393 words of font info for 85 fonts, out of 8000000 for 9000
+ 23218 strings out of 474166
+ 402458 string characters out of 5749518
+ 1937542 words of memory out of 5000000
+ 45138 multiletter control sequences out of 15000+600000
+ 590911 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,11n,81p,1189b,1860s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<d:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/tex
-live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><d:/texlive/2023/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2023/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/2023/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2023/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmib10.pfb><d:/texlive/2023/texmf-dist/fonts/type1/public/amsfont
-s/cmextra/cmmib6.pfb><d:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm
-extra/cmmib8.pfb><d:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-10.pfb><d:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/
-texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2
-023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/2023/texmf-
-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><d:/texlive/2023/texmf-dist
-/fonts/type1/public/amsfonts/symbols/msbm10.pfb><d:/texlive/2023/texmf-dist/fon
-ts/type1/public/cm-super/sftt1095.pfb><d:/texlive/2023/texmf-dist/fonts/type1/u
-rw/helvetic/uhvb8a.pfb><d:/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhv
-r8a.pfb><d:/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (19 pages, 926120 bytes).
-PDF statistics:
- 388 PDF objects out of 1000 (max. 8388607)
- 312 compressed objects within 4 object streams
- 70 named destinations out of 1000 (max. 500000)
- 196 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 10000i,11n,9992p,1189b,1528s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
