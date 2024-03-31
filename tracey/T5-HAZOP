@@ -1,6 +1,6 @@
 \begin{document}
 
-\begin{landscape}
+
 \begin{table}[!]
 \begin{tabular} {|l|l|l|l|l|l|l|}
 
@@ -98,5 +98,4 @@
 \\
 **** In certain cases, apoptosis has been activated at temperatures as low as 30 C and as high as 39 C [3]. Given the wider margin of cell viability at lower temperatures, temperatures exceeding 39 C should be of greater concern to the operator.
 
-\end{landscape}
 \end{document}

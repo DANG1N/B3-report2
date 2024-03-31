@@ -1,44 +1,14 @@
 \newpage
 
-\section{Proliferation bioreactor}
+\section{Proliferation seed train}
 \vspace{-3mm}
 
 % 1. Intro 
 
-\subsection{Medium selection}
+\subsection{Growth medium selection}
 \vspace{-3mm}
 
-% Please add the following required packages to your document preamble:
-% \usepackage[table,xcdraw]{xcolor}
-% Beamer presentation requires \usepackage{colortbl} instead of \usepackage[table,xcdraw]{xcolor}
-\begin{table}[!ht]
-    \begin{center}
+The growth medium’s purpose is, as its name suggests, to support a rapid cell growth. Selecting the right medium is essential as it affects the viability and growth rate of cells and consequently the whole process (e.g., production time, initial number of cells needed, etc.). 
+The ideal medium should i) mimic the in vivo environment, ii) promote cell proliferation, iii) maintain the cell identity, iv) align with the team’s ethos (environmental-friendly and ethical practices), v) be cost-effective and easily reproducible.
+A multi-criteria analysis of several commercially available options is conducted below to choose the optimal medium.
 
-    \begin{tabular}{llll
-    >{\columncolor[HTML]{D9F2D0}}l 
-    >{\columncolor[HTML]{D9F2D0}}l llll}
-    \cellcolor[HTML]{E8E8E8}Criteria &
-      \cellcolor[HTML]{E8E8E8}Weight &
-      \multicolumn{2}{l}{\cellcolor[HTML]{E8E8E8}Beefy 9} &
-      \multicolumn{2}{l}{\cellcolor[HTML]{E8E8E8}Beefy R} &
-      \multicolumn{2}{l}{\cellcolor[HTML]{E8E8E8}FBM™} &
-      \multicolumn{2}{l}{\cellcolor[HTML]{E8E8E8}Essential 8™} \\
-    Section Rating                                                              &    & R    & WS   & R    & WS   & R   & WS    & R   & WS    \\
-    Doubling time                                                               & -3 & 3.1  & -9.3 & 0.5  & -1.5 & 5   & -15   & 5   & -15   \\
-    \begin{tabular}[c]{@{}l@{}}Long term \\ proliferation capacity\end{tabular} & 2  & 5    & 10   & 5    & 10   & 2.5 & 5     & 2.5 & 5     \\
-    Ease to reproduce                                                           & 4  & 5    & 20   & 5    & 20   & 5   & 20    & 5   & 20    \\
-    Cost effective                                                              & -5 & -1.3 & 6.5  & -2.8 & 14   & 2.5 & -12.5 & 5.7 & -28.5 \\
-    Total                                                                       &    & -    & 27.1 & -    & 42.5 & -   & -2.5  & -   & -18.5 \\
-    Cell type tested &
-       &
-      \multicolumn{2}{l}{Satellite cells} &
-      \multicolumn{2}{l}{\cellcolor[HTML]{D9F2D0}Satellite cells} &
-      \multicolumn{2}{l}{Myoblasts} &
-      \multicolumn{2}{l}{Myoblasts}
-    \end{tabular}
-  
-        \caption{Mutlicriteria table
-        \label{table:1}
-    \end{center}
-    
-    \end{table}
