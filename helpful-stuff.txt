@@ -65,3 +65,8 @@ for other .tex files run with
 .\build.ps1 -file [filename]
 
 it will also look for .blg & .bcf files with the same prefix for the bibliography. Please don't rewrite the script :')
+
+----------------------------------------------------------------------------------------------------------
+
+RUNNING THIS COMMAND WILL SHOW YOUR ALL THE COMMITS IN A NICE LIST
+git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --date="short"
