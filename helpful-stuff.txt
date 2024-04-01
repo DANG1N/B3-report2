@@ -66,6 +66,22 @@ for other .tex files run with
 
 it will also look for .blg & .bcf files with the same prefix for the bibliography. Please don't rewrite the script :')
 
+
+----------------------------------------------------------------------------------------------------------
+
+commit.ps1
+
+This script runs all the adding and committing stuff for you! As it's a script your system needs to allow it to run so you may need to type this into an admin powershell terminal:
+Set-ExecutionPolicy RemoteSigned
+
+Once you're done CHANGE IT BACK to:
+Set-ExecutionPolicy Restricted
+:)
+
+Example use of commit.ps1:
+
+.\commit.ps1 --msg "commit message"
+
 ----------------------------------------------------------------------------------------------------------
 
 RUNNING THIS COMMAND WILL SHOW YOUR ALL THE COMMITS IN A NICE LIST
