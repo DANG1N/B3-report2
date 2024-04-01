@@ -12,4 +12,4 @@ while ($confirmation -ne "y") {
     if ($confirmation -eq 'n') { exit }
     $confirmation = Read-Host "Ready? [y/n]"
 }
-git push -u origin main
+git push origin main
