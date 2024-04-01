@@ -80,7 +80,7 @@ Set-ExecutionPolicy Restricted
 
 Example use of commit.ps1:
 
-.\commit.ps1 --msg "commit message"
+.\commit.ps1 "commit message"
 
 ----------------------------------------------------------------------------------------------------------
 
