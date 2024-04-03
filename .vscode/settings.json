@@ -1,4 +1,5 @@
 {
+	// The following ensures the powershell terminal can run the build & commit scripts
 	"terminal.integrated.profiles.windows": {
 		"PowerShell": {
 			"source": "PowerShell",
@@ -72,6 +73,7 @@
 			"scheme": "file"
 		}
 	],
+	// The below changes the bibtex compiler to the updated biber, to avoid errors in compilation
 	"name": "biber",
 	"command": "biber",
 	"args": [
