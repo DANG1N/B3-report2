@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.23)  2 APR 2024 09:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.23)  3 APR 2024 18:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -158,7 +158,7 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'authoryear-icomp.dbx' not found.
+Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count315
@@ -276,17 +276,11 @@ File: blx-natbib.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
  overwriting.
 )
-Package biblatex Info: Trying to load bibliography style 'authoryear-icomp'...
-Package biblatex Info: ... file 'authoryear-icomp.bbx' found.
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
 
-(d:/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/authoryear-icomp.bbx
-File: authoryear-icomp.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-
-Package biblatex Info: Trying to load bibliography style 'authoryear'...
-Package biblatex Info: ... file 'authoryear.bbx' found.
-
-(d:/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
-File: authoryear.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+(d:/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
@@ -294,23 +288,22 @@ Package biblatex Info: ... file 'standard.bbx' found.
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count392
 \c@bbx:relatedtotal=\count393
-)))
-Package biblatex Info: Trying to load citation style 'authoryear-icomp'...
-Package biblatex Info: ... file 'authoryear-icomp.cbx' found.
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
 
-(d:/texlive/2023/texmf-dist/tex/latex/biblatex/cbx/authoryear-icomp.cbx
-File: authoryear-icomp.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
+(d:/texlive/2023/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
 Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
 Package biblatex Info: Redefining '\cites'.
 Package biblatex Info: Redefining '\parencites'.
-Package biblatex Info: Redefining '\footcites'.
-Package biblatex Info: Redefining '\footcitetexts'.
 Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
@@ -998,44 +991,37 @@ Package pdftex.def Info: tracey/T-1-Process.png  used on input line 40.
 (pdftex.def)             Requested size: 362.77264pt x 114.94409pt.
  [7 <./tracey/T-1-Process.png>])
 (./tracey/T2-Proliferation [8]) (./eunsoo/z3-control-T.tex [9]
-<eunsoo/E-1-1-control-system.png, id=212, 623.83063pt x 211.28937pt>
+<eunsoo/E-1-1-control-system.png, id=211, 623.83063pt x 211.28937pt>
 File: eunsoo/E-1-1-control-system.png Graphic file (type png)
 <use eunsoo/E-1-1-control-system.png>
 Package pdftex.def Info: eunsoo/E-1-1-control-system.png  used on input line 20
 .
 (pdftex.def)             Requested size: 362.77264pt x 122.87032pt.
  [10 <./eunsoo/E-1-1-control-system.png>]
-<eunsoo/E-1-2-heat-exchangers.png, id=227, 428.09938pt x 268.50313pt>
+<eunsoo/E-1-2-heat-exchangers.png, id=226, 428.09938pt x 268.50313pt>
 File: eunsoo/E-1-2-heat-exchangers.png Graphic file (type png)
 <use eunsoo/E-1-2-heat-exchangers.png>
 Package pdftex.def Info: eunsoo/E-1-2-heat-exchangers.png  used on input line 4
 3.
 (pdftex.def)             Requested size: 241.84843pt x 151.68814pt.
-<eunsoo/E-1-3-digital-control-system.png, id=231, 649.42625pt x 355.82938pt>
+<eunsoo/E-1-3-digital-control-system.png, id=230, 649.42625pt x 355.82938pt>
 File: eunsoo/E-1-3-digital-control-system.png Graphic file (type png)
 <use eunsoo/E-1-3-digital-control-system.png>
 Package pdftex.def Info: eunsoo/E-1-3-digital-control-system.png  used on input
  line 54.
 (pdftex.def)             Requested size: 290.22107pt x 159.01953pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[11 <./eunsoo/E-1-2-heat-exchangers.png>] [12 <./eunsoo/E-1-3-digital-control-s
-ystem.png>]
-<eunsoo/E-1-4-step-and-impulse.jpg, id=261, 843.15pt x 632.3625pt>
+ [11 <./eunsoo/E-1-2-heat-exchangers.png> <./eunsoo/E-1-3-digital-control-syste
+m.png>] [12]
+<eunsoo/E-1-4-step-and-impulse.jpg, id=263, 843.15pt x 632.3625pt>
 File: eunsoo/E-1-4-step-and-impulse.jpg Graphic file (type jpg)
 <use eunsoo/E-1-4-step-and-impulse.jpg>
 Package pdftex.def Info: eunsoo/E-1-4-step-and-impulse.jpg  used on input line 
 121.
 (pdftex.def)             Requested size: 338.58632pt x 253.94402pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (./eunsoo/z4-control-DO.tex [13]) (./eunsoo/z5-control-pH.tex [14 <./eunsoo/E
--1-4-step-and-impulse.jpg>]) (./eunsoo/z6-purify-lactic.tex [15]) [16]
-(./eunsoo/z7-purify-NH3.tex) (./eunsoo/z8-final-product.tex [17
+) (./eunsoo/z4-control-DO.tex [13 <./eunsoo/E-1-4-step-and-impulse.jpg>]) (./eu
+nsoo/z5-control-pH.tex [14])
+(./eunsoo/z6-purify-lactic.tex [15]) [16] (./eunsoo/z7-purify-NH3.tex)
+(./eunsoo/z8-final-product.tex [17
 
 ]) [18]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
@@ -1044,10 +1030,10 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
 (d:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-Overfull \hbox (6.77448pt too wide) in paragraph at lines 163--163
-[][]\T1/phv/m/sl/10.95 Aging: From Fun-da-men-tal Bi-ol-ogy to So-ci-etal Im-pa
-ct \T1/phv/m/n/10.95 (2022). Aca-demic Press. \T1/phv/m/sc/10.95 isbn\T1/phv/m/
-n/10.95 : 978-0-12-823761-
+Overfull \hbox (4.56895pt too wide) in paragraph at lines 163--163
+[]\T1/phv/m/n/10.95 P.J. Fel-lows. ^^P  Heat pro-cess-ing^^Q. In: \T1/phv/m/sl/
+10.95 Food Pro-cess-ing Tech-nol-ogy: Prin-ci-ples and Prac-tice\T1/phv/m/n/10.
+95 . 3rd ed.
  []
 
 [19
@@ -1065,10 +1051,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23394 strings out of 474166
- 407009 string characters out of 5749518
- 1939542 words of memory out of 5000000
- 45278 multiletter control sequences out of 15000+600000
+ 23324 strings out of 474166
+ 405605 string characters out of 5749518
+ 1938542 words of memory out of 5000000
+ 45211 multiletter control sequences out of 15000+600000
  596393 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,11n,81p,1189b,1860s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1088,7 +1074,7 @@ dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><d:/texlive/2023/texmf-dist
 ts/type1/public/cm-super/sftt1095.pfb><d:/texlive/2023/texmf-dist/fonts/type1/u
 rw/helvetic/uhvb8a.pfb><d:/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhv
 r8a.pfb><d:/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (20 pages, 929428 bytes).
+Output written on main.pdf (20 pages, 929111 bytes).
 PDF statistics:
  413 PDF objects out of 1000 (max. 8388607)
  336 compressed objects within 4 object streams

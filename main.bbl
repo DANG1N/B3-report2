@@ -18,15 +18,13 @@
 
 
 \refsection{0}
-  \datalist[entry]{nyt/global//global/global}
+  \datalist[entry]{nty/global//global/global}
     \entry{E-Aging2022}{book}{}
       \list{publisher}{1}{%
         {Academic Press}%
       }
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-12-823761-8}
       \field{title}{Aging: From Fundamental Biology to Societal Impact}
@@ -37,12 +35,11 @@
     \endentry
     \entry{E-Cannon2022}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6c557ab1156d90dd2aa0a798d04da6b7}{%
+        {{hash=6c557ab1156d90dd2aa0a798d04da6b7}{%
            family={Cannon},
            familyi={C\bibinitperiod},
            given={Mark},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
+           giveni={M\bibinitperiod}}}%
       }
       \strng{namehash}{6c557ab1156d90dd2aa0a798d04da6b7}
       \strng{fullhash}{6c557ab1156d90dd2aa0a798d04da6b7}
@@ -53,9 +50,6 @@
       \field{extraname}{1}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{Department of Engineering Science, University of Oxford, Michaelmas Term}
@@ -64,12 +58,11 @@
     \endentry
     \entry{E-Cannon2022-2}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6c557ab1156d90dd2aa0a798d04da6b7}{%
+        {{hash=6c557ab1156d90dd2aa0a798d04da6b7}{%
            family={Cannon},
            familyi={C\bibinitperiod},
            given={Mark},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
+           giveni={M\bibinitperiod}}}%
       }
       \strng{namehash}{6c557ab1156d90dd2aa0a798d04da6b7}
       \strng{fullhash}{6c557ab1156d90dd2aa0a798d04da6b7}
@@ -80,9 +73,6 @@
       \field{extraname}{2}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{Department of Engineering Science, University of Oxford, Michaelmas Term}
@@ -91,18 +81,16 @@
     \endentry
     \entry{E-Donaldson2013}{article}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=f061bc9c0c3f106591756920da5eea07}{%
+        {{hash=f061bc9c0c3f106591756920da5eea07}{%
            family={Donaldson},
            familyi={D\bibinitperiod},
            given={Andrea\bibnamedelima E.},
-           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a72bcff78cc456bce252157f96a8f2f9}{%
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=a72bcff78cc456bce252157f96a8f2f9}{%
            family={Lamont},
            familyi={L\bibinitperiod},
            given={Iain\bibnamedelima L.},
-           giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
+           giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Public Library of Science}%
@@ -115,8 +103,6 @@
       \strng{authorfullhash}{4c9edf0b14486b56b5a23af685666735}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PLOS ONE}
@@ -139,12 +125,11 @@
     \endentry
     \entry{E-Doran2013}{inbook}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=fa61a4cf51d91a37ce21af007bb8e606}{%
+        {{hash=fa61a4cf51d91a37ce21af007bb8e606}{%
            family={Doran},
            familyi={D\bibinitperiod},
            given={Pauline\bibnamedelima M.},
-           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Elsevier}%
@@ -157,8 +142,6 @@
       \strng{authorfullhash}{fa61a4cf51d91a37ce21af007bb8e606}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Bioprocess Engineering Principles}
@@ -173,12 +156,11 @@
     \endentry
     \entry{E-Fellows2009}{inbook}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=820017e9fc0f759b36bced6bae217387}{%
+        {{hash=820017e9fc0f759b36bced6bae217387}{%
            family={Fellows},
            familyi={F\bibinitperiod},
            given={P.J.},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
+           giveni={P\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Woodhead Publishing}%
@@ -191,8 +173,6 @@
       \strng{authorfullhash}{820017e9fc0f759b36bced6bae217387}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Food Processing Technology: Principles and Practice}
@@ -207,42 +187,36 @@
     \endentry
     \entry{E-Furuhashi2021}{article}{}
       \name{author}{6}{}{%
-        {{un=0,uniquepart=base,hash=5afb2d334e4cb8ad6d0b33a15be08aff}{%
+        {{hash=5afb2d334e4cb8ad6d0b33a15be08aff}{%
            family={Furuhashi},
            familyi={F\bibinitperiod},
            given={Mai},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0ee4cccbdee84d989609b77e287a841a}{%
+           giveni={M\bibinitperiod}}}%
+        {{hash=0ee4cccbdee84d989609b77e287a841a}{%
            family={Morimoto},
            familyi={M\bibinitperiod},
            given={Yuya},
-           giveni={Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b2b2417fe131064333f37473754ed8e4}{%
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b2b2417fe131064333f37473754ed8e4}{%
            family={Shima},
            familyi={S\bibinitperiod},
            given={Ai},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=04cb9a85fe3f957783f7a9e839d97606}{%
+           giveni={A\bibinitperiod}}}%
+        {{hash=04cb9a85fe3f957783f7a9e839d97606}{%
            family={Nakamura},
            familyi={N\bibinitperiod},
            given={Futoshi},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0b6710c876b5a5461e6c8fa893b6f321}{%
+           giveni={F\bibinitperiod}}}%
+        {{hash=0b6710c876b5a5461e6c8fa893b6f321}{%
            family={Ishikawa},
            familyi={I\bibinitperiod},
            given={Hiroshi},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d36eb2a979c7ace48abda8d7f0d58d1c}{%
+           giveni={H\bibinitperiod}}}%
+        {{hash=d36eb2a979c7ace48abda8d7f0d58d1c}{%
            family={Takeuchi},
            familyi={T\bibinitperiod},
            given={Shoji},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
+           giveni={S\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Nature Publishing Group}%
@@ -255,8 +229,6 @@
       \strng{authorfullhash}{49df1f96f2e0668ed5afa1df3159d9d4}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{npj Science of Food}
@@ -267,18 +239,16 @@
     \endentry
     \entry{E-Gaughan2014}{article}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=f2a61c2a76302549f84f48d627edbe81}{%
+        {{hash=f2a61c2a76302549f84f48d627edbe81}{%
            family={Gaughan},
            familyi={G\bibinitperiod},
            given={J.\bibnamedelimi B.},
-           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6aa1deaeb188abf8ff59f84e71138cf5}{%
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=6aa1deaeb188abf8ff59f84e71138cf5}{%
            family={Mader},
            familyi={M\bibinitperiod},
            given={T.\bibnamedelimi L.},
-           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Springer}%
@@ -291,8 +261,6 @@
       \strng{authorfullhash}{6ff8d59f7b9c8097b6fae5225a20f933}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Biometeorology}
@@ -304,30 +272,26 @@
     \endentry
     \entry{big_bioprocess}{article}{}
       \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=165db613d775bbf5d222a9649de39960}{%
+        {{hash=165db613d775bbf5d222a9649de39960}{%
            family={Guan},
            familyi={G\bibinitperiod},
            given={X.},
-           giveni={X\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ef49c46818ad29b72631eb82007b2054}{%
+           giveni={X\bibinitperiod}}}%
+        {{hash=ef49c46818ad29b72631eb82007b2054}{%
            family={Zhou},
            familyi={Z\bibinitperiod},
            given={J.},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=afd3f8192eeda130355fa13301848aab}{%
+           giveni={J\bibinitperiod}}}%
+        {{hash=afd3f8192eeda130355fa13301848aab}{%
            family={Du},
            familyi={D\bibinitperiod},
            given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=38241eaee18102cab15a125b0654c7da}{%
+           giveni={G\bibinitperiod}}}%
+        {{hash=38241eaee18102cab15a125b0654c7da}{%
            family={Chen},
            familyi={C\bibinitperiod},
            given={J.},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
+           giveni={J\bibinitperiod}}}%
       }
       \strng{namehash}{a0fef52bd1cda27c106e72269f302f1a}
       \strng{fullhash}{5694fe6c0f6993d043e068bd8a7224fe}
@@ -337,8 +301,6 @@
       \strng{authorfullhash}{5694fe6c0f6993d043e068bd8a7224fe}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Trends in Biotechnology}
@@ -354,18 +316,16 @@
     \endentry
     \entry{E-Guyton2006}{book}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=7b346ef0d2a3867d0ee4d7d82a73d7ff}{%
+        {{hash=7b346ef0d2a3867d0ee4d7d82a73d7ff}{%
            family={Guyton},
            familyi={G\bibinitperiod},
            given={Arthur\bibnamedelima C.},
-           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=570554af6f0e5ad0570daf633fa752c3}{%
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=570554af6f0e5ad0570daf633fa752c3}{%
            family={Hall},
            familyi={H\bibinitperiod},
            given={John\bibnamedelima E.},
-           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Elsevier Inc.}%
@@ -378,8 +338,6 @@
       \strng{authorfullhash}{84d71ddf61742e21d7b1d5188c1fd691}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{11}
@@ -391,24 +349,21 @@
     \endentry
     \entry{Hemeda2014}{article}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=b387b4436049720f3a7d7484d4fc22d4}{%
+        {{hash=b387b4436049720f3a7d7484d4fc22d4}{%
            family={Hemeda},
            familyi={H\bibinitperiod},
            given={H.},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=fde49ff915151443abed541a9c8d1ca4}{%
+           giveni={H\bibinitperiod}}}%
+        {{hash=fde49ff915151443abed541a9c8d1ca4}{%
            family={Giebel},
            familyi={G\bibinitperiod},
            given={B.},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f05914b095d98d63a98e165f3f99b6bf}{%
+           giveni={B\bibinitperiod}}}%
+        {{hash=f05914b095d98d63a98e165f3f99b6bf}{%
            family={Wagner},
            familyi={W\bibinitperiod},
            given={W.},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
+           giveni={W\bibinitperiod}}}%
       }
       \strng{namehash}{4f9d555776c7992b8699fd9aba58642e}
       \strng{fullhash}{4f9d555776c7992b8699fd9aba58642e}
@@ -418,8 +373,6 @@
       \strng{authorfullhash}{4f9d555776c7992b8699fd9aba58642e}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Cytotherapy}
@@ -435,33 +388,28 @@
     \endentry
     \entry{Jochems2002}{article}{}
       \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=8871329593d367cbc2aee13cf57d52d9}{%
+        {{hash=8871329593d367cbc2aee13cf57d52d9}{%
            family={Jochems},
            familyi={J\bibinitperiod},
            given={C.\bibnamedelimi E.},
-           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b8e933b0df74c7f2ed458279f2678b32}{%
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=b8e933b0df74c7f2ed458279f2678b32}{%
            family={Valk},
            familyi={V\bibinitperiod},
            given={J.\bibnamedelimi B.},
            giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0,
            prefix={van\bibnamedelima der},
-           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=9cb1abc9dd2f2544c94dd70b3dbcc005}{%
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=9cb1abc9dd2f2544c94dd70b3dbcc005}{%
            family={Stafleu},
            familyi={S\bibinitperiod},
            given={F.\bibnamedelimi R.},
-           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=78fdc03b0c9505bdd1223dc6ccb0c47e}{%
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=78fdc03b0c9505bdd1223dc6ccb0c47e}{%
            family={Baumans},
            familyi={B\bibinitperiod},
            given={V.},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
+           giveni={V\bibinitperiod}}}%
       }
       \strng{namehash}{59c6bb042b7aa55a94e391d2cbc2635c}
       \strng{fullhash}{bc68186b3f17889265190901fe45eb88}
@@ -471,8 +419,6 @@
       \strng{authorfullhash}{bc68186b3f17889265190901fe45eb88}
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Altern Lab Anim}
@@ -488,7 +434,7 @@
     \endentry
     \entry{mosameat}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9d2503f815c40f99b9b0087c881f3b97}{%
+        {{hash=9d2503f815c40f99b9b0087c881f3b97}{%
            family={{Mosa Meat}},
            familyi={M\bibinitperiod}}}%
       }
@@ -500,8 +446,6 @@
       \strng{authorfullhash}{9d2503f815c40f99b9b0087c881f3b97}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{[Online; last accessed <29-03-2024>]}
@@ -516,24 +460,21 @@
     \endentry
     \entry{Shen2012}{book}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=451f8e5c62fbec604f0d298fd364254e}{%
+        {{hash=451f8e5c62fbec604f0d298fd364254e}{%
            family={Shen},
            familyi={S\bibinitperiod},
            given={James},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3280b71ae6a5a299509d1a8ee0d599d6}{%
+           giveni={J\bibinitperiod}}}%
+        {{hash=3280b71ae6a5a299509d1a8ee0d599d6}{%
            family={Ly},
            familyi={L\bibinitperiod},
            given={Kim},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=70bc4487d5acd3b95bd8948965232c51}{%
+           giveni={K\bibinitperiod}}}%
+        {{hash=70bc4487d5acd3b95bd8948965232c51}{%
            family={Hoang},
            familyi={H\bibinitperiod},
            given={Yvonne},
-           giveni={Y\bibinitperiod},
-           givenun=0}}%
+           giveni={Y\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Elsevier}%
@@ -546,8 +487,6 @@
       \strng{authorfullhash}{02c50ca6fb7d5bac0ea3908c85008682}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{chapter}{5}
@@ -561,54 +500,46 @@
     \endentry
     \entry{Subbiahanadar2021}{article}{}
       \name{author}{8}{}{%
-        {{un=0,uniquepart=base,hash=4c1f1643b7ea35c1f2a024aa4ab6ecd9}{%
+        {{hash=4c1f1643b7ea35c1f2a024aa4ab6ecd9}{%
            family={Subbiahanadar\bibnamedelima Chelladurai},
            familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
            given={K},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5d821c9cc867e4b07a1de9b5a06ff690}{%
+           giveni={K\bibinitperiod}}}%
+        {{hash=5d821c9cc867e4b07a1de9b5a06ff690}{%
            family={Selvan\bibnamedelima Christyraj},
            familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
            given={JD},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c685f27192a1572f1cbf1a41b35d34d6}{%
+           giveni={J\bibinitperiod}}}%
+        {{hash=c685f27192a1572f1cbf1a41b35d34d6}{%
            family={Rajagopalan},
            familyi={R\bibinitperiod},
            given={K},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e107311ec8015d856642dcc5ecaf164a}{%
+           giveni={K\bibinitperiod}}}%
+        {{hash=e107311ec8015d856642dcc5ecaf164a}{%
            family={Yesudhason},
            familyi={Y\bibinitperiod},
            given={BV},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a84a9f14c2786485e6dc2c266b8e4eac}{%
+           giveni={B\bibinitperiod}}}%
+        {{hash=a84a9f14c2786485e6dc2c266b8e4eac}{%
            family={Venkatachalam},
            familyi={V\bibinitperiod},
            given={S},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1aec1ded717193607e67d20a72717b3d}{%
+           giveni={S\bibinitperiod}}}%
+        {{hash=1aec1ded717193607e67d20a72717b3d}{%
            family={Mohan},
            familyi={M\bibinitperiod},
            given={M},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e08e2dfaed79fe3157d600e94a349135}{%
+           giveni={M\bibinitperiod}}}%
+        {{hash=e08e2dfaed79fe3157d600e94a349135}{%
            family={Chellathurai\bibnamedelima Vasantha},
            familyi={C\bibinitperiod\bibinitdelim V\bibinitperiod},
            given={N},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=41ba020b192f364f35ea03491c6d4776}{%
+           giveni={N\bibinitperiod}}}%
+        {{hash=41ba020b192f364f35ea03491c6d4776}{%
            family={Selvan\bibnamedelima Christyraj},
            familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
            given={JRS},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
+           giveni={J\bibinitperiod}}}%
       }
       \strng{namehash}{dfd86bda0eeb6b386806258f557051ab}
       \strng{fullhash}{5adc1d94a915525b93774e933e7f762d}
@@ -618,8 +549,6 @@
       \strng{authorfullhash}{5adc1d94a915525b93774e933e7f762d}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Heliyon}
@@ -636,7 +565,7 @@
     \endentry
     \entry{GFI2021}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4d645988983e75101f69a9ce62eade8f}{%
+        {{hash=4d645988983e75101f69a9ce62eade8f}{%
            family={{The Good Food Institute}},
            familyi={T\bibinitperiod}}}%
       }
@@ -648,8 +577,6 @@
       \strng{authorfullhash}{4d645988983e75101f69a9ce62eade8f}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Online; Last accessed: 28 March 2024}
@@ -664,18 +591,16 @@
     \endentry
     \entry{Tyagi_2023}{inbook}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=0edd3aa5c5c70bd47954e365bbc7f7f9}{%
+        {{hash=0edd3aa5c5c70bd47954e365bbc7f7f9}{%
            family={Tyagi},
            familyi={T\bibinitperiod},
            given={Sakshi},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=79b58af41e1d4275d55555575f9cfeab}{%
+           giveni={S\bibinitperiod}}}%
+        {{hash=79b58af41e1d4275d55555575f9cfeab}{%
            family={Mani},
            familyi={M\bibinitperiod},
            given={Shalini},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
+           giveni={S\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Springer International Publishing}%
@@ -688,8 +613,6 @@
       \strng{authorfullhash}{45138e20f6aed09b4bcc79f180a82eb4}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Animal Cell Culture: Principles and Practice}
