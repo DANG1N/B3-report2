@@ -2,10 +2,10 @@
 for main.tex run with:
 .\build.ps1
 
-for other.tex run with
+to compile other.tex run with
 .\build.ps1 -file other
 
-TEST#>
+#>
 
 param(
     [string]$file = "main"

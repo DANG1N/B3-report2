@@ -1,4 +1,10 @@
-<# This script creates automatically adds, commits and pushes to the main branch #>
+<# This script creates automatically adds, commits and pushes to the main branch.
+
+To commit with the message "automated commit: made changes to X", run:
+
+.\commit.ps1 made with changes to X 
+
+#>
 
 param(
     [string]$msg = "default"
