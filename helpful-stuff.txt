@@ -71,7 +71,9 @@ it will also look for .blg & .bcf files with the same prefix for the bibliograph
 
 commit.ps1
 
-This script runs all the adding and committing stuff for you! As it's a script your system needs to allow it to run so you may need to type this into an admin powershell terminal:
+This script runs all the adding and committing stuff for you! 
+
+If it doesn't run because your terminal doesn't have permission to run scripts, you can run this an admin powershell terminal:
 Set-ExecutionPolicy RemoteSigned
 
 Once you're done CHANGE IT BACK to:
