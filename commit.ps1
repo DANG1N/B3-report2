@@ -2,7 +2,7 @@
 
 To commit with the message "automated commit: made changes to X", run:
 
-.\commit.ps1 made with changes to X 
+.\commit.ps1 "made with changes to X"
 
 #>
 
