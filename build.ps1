@@ -3,7 +3,7 @@ for main.tex run with:
 .\build.ps1
 
 to compile other.tex run with
-.\build.ps1 -file other
+.\build.ps1 "other"
 
 #>
 
