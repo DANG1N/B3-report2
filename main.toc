@@ -1,24 +1,28 @@
 \babel@toc {english}{}\relax 
-\contentsline {section}{\numberline {1}Example}{4}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Example NUMBERED subsection (no * in environment)}{4}{subsection.1.1}%
-\contentsline {section}{\numberline {2}Medium}{6}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Introduction}{6}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Medium composition}{6}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Moving away from FBS}{7}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Consideration}{7}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Summary}{8}{subsection.2.5}%
-\contentsline {section}{\numberline {3}Proliferation seed train}{9}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Growth medium selection}{9}{subsection.3.1}%
-\contentsline {section}{\numberline {4}Control systems}{10}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Introduction}{10}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Temperature control}{10}{subsection.4.2}%
-\contentsline {subsubsection}{\numberline {4.2.1}Introduction}{10}{subsubsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2}Methods}{11}{subsubsection.4.2.2}%
-\contentsline {subsubsection}{\numberline {4.2.3}Results}{12}{subsubsection.4.2.3}%
-\contentsline {subsubsection}{\numberline {4.2.4}Discussion}{13}{subsubsection.4.2.4}%
-\contentsline {subsection}{\numberline {4.3}Oxygen control}{14}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Acidity control}{15}{subsection.4.4}%
-\contentsline {section}{\numberline {5}Purification methods}{16}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Lactic acid purification}{16}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Ammonia purification}{17}{subsection.5.2}%
-\contentsline {section}{\numberline {6}Final product formulation}{18}{section.6}%
+\contentsline {section}{\numberline {1}Abstract}{4}{section.1}%
+\contentsline {section}{\numberline {2}Cell Selection}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Introduction to Cells}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Stem Cells}{5}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Control systems}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Introduction}{7}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Medium}{12}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Introduction}{12}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Medium composition}{12}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Moving away from FBS}{13}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Consideration}{13}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Summary}{14}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Proliferation seed train}{15}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Growth medium selection}{15}{subsection.5.1}%
+\contentsline {section}{\numberline {6}Control systems}{16}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Introduction}{16}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Temperature control}{16}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Introduction}{16}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Methods}{17}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Results}{18}{subsubsection.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.4}Discussion}{19}{subsubsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.3}Oxygen control}{20}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Acidity control}{21}{subsection.6.4}%
+\contentsline {section}{\numberline {7}Purification methods}{22}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Lactic acid purification}{22}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Ammonia purification}{23}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Final product formulation}{24}{section.8}%

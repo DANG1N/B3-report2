@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.23)  3 APR 2024 19:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.23)  25 APR 2024 00:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -924,7 +924,7 @@ Package hyperref Info: Link coloring OFF on input line 94.
 \openout5 = `main.out'.
 
  (./z1-cover-page.tex
-<y0-oxford.jpg, id=96, 738.76pt x 738.76pt>
+<y0-oxford.jpg, id=112, 738.76pt x 738.76pt>
 File: y0-oxford.jpg Graphic file (type jpg)
 <use y0-oxford.jpg>
 Package pdftex.def Info: y0-oxford.jpg  used on input line 8.
@@ -934,12 +934,12 @@ Package pdftex.def Info: y0-oxford.jpg  used on input line 8.
 {d:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/texlive/2023/
 texmf-dist/fonts/enc/dvips/base/8r.enc} <./y0-oxford.jpg>] (./z2-table-of-conte
 nts.tex (./main.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
 
 (d:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
 
 (d:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -968,116 +968,593 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--106
 [3
 
 ] (./will/w1-main-introduction.tex
-<will/example-image.jpg, id=137, 288.3573pt x 216.81pt>
-File: will/example-image.jpg Graphic file (type jpg)
-<use will/example-image.jpg>
-Package pdftex.def Info: will/example-image.jpg  used on input line 13.
-(pdftex.def)             Requested size: 362.77264pt x 272.7718pt.
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 3
-3.
+Overfull \hbox (8.17014pt too wide) in paragraph at lines 19--21
+\T1/phv/m/n/10.95 day's po-lit-i-cal and eco-nomic cli-mate. [https://iopscienc
+e.iop.org/article/10.1088/1748-9326/8/3/034015]
+ []
 
+) (./will/w2-cell-selection.tex [4
+
+]
+Overfull \hbox (103.10625pt too wide) in paragraph at lines 6--7
+\T1/phv/m/n/10.95 Our fi-nal prod-uct is a com-bi-na-tion of mus-cle cells and 
+oleogel-based fat sub-sti-tute [https://www.nature.com/articles/s41467-
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8 ...te-cells-are-called-myoblasts-They-express_
+                                                  fig25_231588877] OR USE TR...
+
+? 
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 8.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.9 
+    
+? 
+
+Overfull \hbox (48.63617pt too wide) in paragraph at lines 8--9
+[]\T1/phv/m/n/10.95 [https://www.researchgate.net/figure/Myoblast-differentiati
+on-Activated-satellite-cells-are-called-myoblasts-
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.18 ...mina [https://en.wikipedia.org/wiki/Basal_
+                                                  lamina] of the myofiber [h...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.19 
+     
+? 
+
+Overfull \hbox (1248.33028pt too wide) in paragraph at lines 18--19
+\T1/phv/m/n/10.95 [https://en.wikipedia.org/wiki/Basal$[]\OML/cmm/m/it/10.95 am
+ina\OT1/cmr/m/n/10.95 ]\OML/cmm/m/it/10.95 ofthemyofiber\OT1/cmr/m/n/10.95 [\OM
+L/cmm/m/it/10.95 https \OT1/cmr/m/n/10.95 : \OML/cmm/m/it/10.95 ==www:sciencedi
+rect:com=science=article=pii=B\OT1/cmr/m/n/10.95 9780124160224000068?\OML/cmm/m
+/it/10.95 via\OT1/cmr/m/n/10.95 %3\OML/cmm/m/it/10.95 Dihub\OT1/cmr/m/n/10.95 ]
+\OML/cmm/m/it/10.95 :Theoverallmyogenicdifferentiationpathwayincludestheactivat
+ionofquiescentsatellitecells; commitmenttodifferentiationandproliferation; fusi
+ontoformmyotubes; andultimatelymaturationintomyofibers:$ 
+ []
+
+
+Overfull \hbox (55.53746pt too wide) in paragraph at lines 21--22
+\T1/phv/m/n/10.95 dome-trial polyps, menses blood, bone mar-row, adi-pose tis-s
+ue, etc. [https://pubmed.ncbi.nlm.nih.gov/21396235/].
+ []
+
+
+Overfull \hbox (204.53435pt too wide) in paragraph at lines 24--25
+\T1/phv/m/n/10.95 are ca-pa-ble of self-renewal in con-di-tions that pre-vent d
+if-fer-en-ti-a-tion and clump-ing. [https://www.science.org/doi/10.1126/science
+.282.5391.1145]
+ []
+
+
+Overfull \hbox (5.61848pt too wide) in paragraph at lines 24--25
+\T1/phv/m/n/10.95 [https://www.cell.com/cell/fulltext/S0092-8674%2803%2900847-X
+ ]. ESCs have a short-ened G1 phase
+ []
+
+[5]
+Overfull \hbox (0.70296pt too wide) in paragraph at lines 27--28
+\T1/phv/m/n/10.95 mance char-ac-ter-is-tics are sim-i-lar to ESCs. [https://www
+.ncbi.nlm.nih.gov/pmc/articles/PMC3347549/] 
+ []
+
+<will/w2i-cell-types.png, id=170, 452.892pt x 271.2534pt>
+File: will/w2i-cell-types.png Graphic file (type png)
+<use will/w2i-cell-types.png>
+Package pdftex.def Info: will/w2i-cell-types.png  used on input line 40.
+(pdftex.def)             Requested size: 362.77264pt x 217.28445pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./will/w3-microcarriers.tex [6]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.11 ...t/uploads/2023/01/Figure-4-Scaffold-Types_
+                                                  v1.pdf]
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.16 
+     
+? 
+
+Overfull \hbox (1484.97533pt too wide) in paragraph at lines 11--16
+[]\T1/phv/m/n/10.95 [https://gfi.org/wp-content/uploads/2023/01/Figure-4-Scaffo
+ld-Types$[]\OT1/cmr/m/n/10.95 1\OML/cmm/m/it/10.95 :pdf\OT1/cmr/m/n/10.95 ]\OML
+/cmm/m/it/10.95 MicrocarriersMicrocarriersaresmallsphericalstructuresthatmimice
+xtracellularmatrixcharacteristicstoallowcellularattachment:Whilstthereareothers
+caffoldingtechniquesavailable; microcarriershavetheadvantageofprovidingalargesu
+rfaceareatovolumeratio; permittinghighdensitiesofcellsintheproliferationphase:\
+OT1/cmr/m/n/10.95 [\OML/cmm/m/it/10.95 https \OT1/cmr/m/n/10.95 :
+ []
+
+
+Overfull \hbox (28.17874pt too wide) in paragraph at lines 11--16
+\OML/cmm/m/it/10.95 ==gfi:org=science=the \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it
+/10.95 science \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/10.95 of \OMS/cmsy/m/n/10.
+95 ^^@ \OML/cmm/m/it/10.95 cultivated \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/10.
+95 meat=deep \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/10.95 dive \OMS/cmsy/m/n/10.
+95 ^^@ \OML/cmm/m/it/10.95 cultivated \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/10.
+95 meat \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/10.95 scaffolding\OT1/cmr/m/n/10.
+95 ][\OML/cmm/m/it/10.95 https \OT1/cmr/m/n/10.95 :
+ []
+
+! Undefined control sequence.
+l.17 Figure 1"C:\Users
+                      \will\OneDrive - Nexus365\Eng\Year3\B3\Group Work\Reso...
+
+? 
+! Undefined control sequence.
+l.17 Figure 1"C:\Users\will
+                           \OneDrive - Nexus365\Eng\Year3\B3\Group Work\Reso...
+
+? 
+! Undefined control sequence.
+l.17 Figure 1"C:\Users\will\OneDrive
+                                     - Nexus365\Eng\Year3\B3\Group Work\Reso...
+
+? 
+! Undefined control sequence.
+l.17 ...re 1"C:\Users\will\OneDrive - Nexus365\Eng
+                                                  \Year3\B3\Group Work\Resou...
+
+? 
+! Undefined control sequence.
+l.17 ...C:\Users\will\OneDrive - Nexus365\Eng\Year
+                                                  3\B3\Group Work\Resources ...
+
+? 
+! Undefined control sequence.
+l.17 ...Users\will\OneDrive - Nexus365\Eng\Year3\B
+                                                  3\Group Work\Resources and...
+
+? 
+! Undefined control sequence.
+l.17 ...ill\OneDrive - Nexus365\Eng\Year3\B3\Group
+                                                   Work\Resources and Docume...
+
+? 
+! Undefined control sequence.
+l.17 ...Nexus365\Eng\Year3\B3\Group Work\Resources
+                                                   and Documents\External\23...
+
+? 
+! Undefined control sequence.
+l.17 ...roup Work\Resources and Documents\External
+                                                  \231016 Ivy Farm Industry ...
+
+? 
+! Undefined control sequence.
+l.17 ...up Work\Resources and Documents\External\2
+                                                  31016 Ivy Farm Industry Ta...
+
+? 
+
+Overfull \hbox (10.8097pt too wide) in paragraph at lines 17--27
+\T1/phv/m/n/10.95 [https://www.sciencedirect.com/science/article/pii/S0268005X2
+2001527] Porous Scaf-folds Porous scaf-
+ []
+
+
+Overfull \hbox (81.30518pt too wide) in paragraph at lines 17--27
+\T1/phv/m/n/10.95 pro-cesses like this are com-plex and don't guar-an-tee per-f
+or-mance. [https://pubs.acs.org/doi/10.1021/acsabm.2c00740]
+ []
+
+
+Overfull \hbox (158.66548pt too wide) in paragraph at lines 17--27
+\T1/phv/m/n/10.95 ing. When swollen they re-sem-ble liv-ing tis-sues in tex-tur
+e ^^U rub-bery and soft. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3963751/
+]
+ []
+
+[7 <./will/w2i-cell-types.png>]
+! Undefined control sequence.
+l.32 ...le/10.1007/s10856-019-6318-7 and "C:\Users
+                                                  \will\OneDrive - Nexus365\...
+
+? 
+! Undefined control sequence.
+l.32 ....1007/s10856-019-6318-7 and "C:\Users\will
+                                                  \OneDrive - Nexus365\Eng\Y...
+
+? 
+! Undefined control sequence.
+l.32 ...856-019-6318-7 and "C:\Users\will\OneDrive
+                                                   - Nexus365\Eng\Year3\B3\G...
+
+? 
+! Undefined control sequence.
+l.32 ...and "C:\Users\will\OneDrive - Nexus365\Eng
+                                                  \Year3\B3\Group Work\Proje...
+
+? 
+! Undefined control sequence.
+l.32 ...C:\Users\will\OneDrive - Nexus365\Eng\Year
+                                                  3\B3\Group Work\Project Co...
+
+? 
+! Undefined control sequence.
+l.32 ...Users\will\OneDrive - Nexus365\Eng\Year3\B
+                                                  3\Group Work\Project Colla...
+
+? 
+! Undefined control sequence.
+l.32 ...ill\OneDrive - Nexus365\Eng\Year3\B3\Group
+                                                   Work\Project Collaboratio...
+
+? 
+! Undefined control sequence.
+l.32 ...- Nexus365\Eng\Year3\B3\Group Work\Project
+                                                   Collaboration\Will\s42242...
+
+? 
+! Undefined control sequence.
+l.32 ...3\B3\Group Work\Project Collaboration\Will
+                                                  \s42242-021-00165-0.pdf"]
+? 
+! Undefined control sequence.
+l.32 ...B3\Group Work\Project Collaboration\Will\s
+                                                  42242-021-00165-0.pdf"]
+? 
+
+Overfull \hbox (86.3794pt too wide) in paragraph at lines 31--36
+[]\T1/phv/m/n/10.95 Figure 3 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC39637
+51 [https://link.springer.com/article/10.1007/s10856-
+ []
+
+! Undefined control sequence.
+l.37 Figure 4 "C:\Users
+                       \will\OneDrive - Nexus365\Eng\Year3\B3\Group Work\Pro...
+
+? 
+! Undefined control sequence.
+l.37 Figure 4 "C:\Users\will
+                            \OneDrive - Nexus365\Eng\Year3\B3\Group Work\Pro...
+
+? 
+! Undefined control sequence.
+l.37 Figure 4 "C:\Users\will\OneDrive
+                                      - Nexus365\Eng\Year3\B3\Group Work\Pro...
+
+? 
+! Undefined control sequence.
+l.37 ...e 4 "C:\Users\will\OneDrive - Nexus365\Eng
+                                                  \Year3\B3\Group Work\Proje...
+
+? 
+! Undefined control sequence.
+l.37 ...C:\Users\will\OneDrive - Nexus365\Eng\Year
+                                                  3\B3\Group Work\Project Co...
+
+? 
+! Undefined control sequence.
+l.37 ...Users\will\OneDrive - Nexus365\Eng\Year3\B
+                                                  3\Group Work\Project Colla...
+
+? 
+! Undefined control sequence.
+l.37 ...ill\OneDrive - Nexus365\Eng\Year3\B3\Group
+                                                   Work\Project Collaboratio...
+
+? 
+! Undefined control sequence.
+l.37 ...- Nexus365\Eng\Year3\B3\Group Work\Project
+                                                   Collaboration\Will\s10856...
+
+? 
+! Undefined control sequence.
+l.37 ...3\B3\Group Work\Project Collaboration\Will
+                                                  \s10856-019-6318-7.pdf"
+? 
+! Undefined control sequence.
+l.37 ...B3\Group Work\Project Collaboration\Will\s
+                                                  10856-019-6318-7.pdf"
+? 
+
+Overfull \hbox (144.69325pt too wide) in paragraph at lines 37--46
+\T1/phv/m/n/10.95 pa-ble of with-stand-ing me-chan-i-cal loads than gelatin alo
+ne. [https://www.sciencedirect.com/science/article/pii/S1742706109005777]
+ []
+
+
+Overfull \hbox (165.42155pt too wide) in paragraph at lines 37--46
+\T1/phv/m/n/10.95 re-quire-ments for re-duc-ing re-liance on ex-ist-ing an-i-ma
+l agri-cul-ture and slaugh-ter. [https://www.sciencedirect.com/topics/chemistry
+/gelatin]
+ []
+
+[8]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.47 ...\%2Fs41467-023-38593-4/MediaObjects/41467_
+                                                  2023_38593_MOESM6_ESM.mp4
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.48 
+     
+? 
+
+Overfull \hbox (51.30725pt too wide) in paragraph at lines 47--48
+[]\T1/phv/m/n/10.95 Figure 5 Struc-tured Fi-nal Beef Burg-ers https://static-co
+ntent.springer.com/esm/art%3A10.1038%2Fs41467-
+ []
+
+! Misplaced alignment tab character &.
+l.53 ...go.gale.com/ps/i.do?id=GALE\%7CA776940777&
+                                                  sid=sitemap&v=2.1&it=r&p=H...
+
+? 
+! Misplaced alignment tab character &.
+l.53 ...ps/i.do?id=GALE\%7CA776940777&sid=sitemap&
+                                                  v=2.1&it=r&p=HRCA&sw=w&use...
+
+? 
+! Misplaced alignment tab character &.
+l.53 ...o?id=GALE\%7CA776940777&sid=sitemap&v=2.1&
+                                                  it=r&p=HRCA&sw=w&userGroup...
+
+? 
+! Misplaced alignment tab character &.
+l.53 ...GALE\%7CA776940777&sid=sitemap&v=2.1&it=r&
+                                                  p=HRCA&sw=w&userGroupName=...
+
+? 
+! Misplaced alignment tab character &.
+l.53 ...CA776940777&sid=sitemap&v=2.1&it=r&p=HRCA&
+                                                  sw=w&userGroupName=anon\%7...
+
+? 
+! Misplaced alignment tab character &.
+l.53 ...940777&sid=sitemap&v=2.1&it=r&p=HRCA&sw=w&
+                                                  userGroupName=anon\%7E8cbb...
+
+? 
+! Misplaced alignment tab character &.
+l.53 ...=HRCA&sw=w&userGroupName=anon\%7E8cbba7f9&
+                                                  aty=open-web-entry]
+? 
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 5
+7.
 (d:/texlive/2023/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 34.
- [4
 
- <./will/example-image.jpg>]) (./tracey/T1-Medium [5] [6]
-<tracey/T-1-Process.png, id=180, 358.722pt x 113.661pt>
+! LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 ...seeding area was determined as S = 4 × π
+                                                   × R2 × N, where S is th...
+
+? 
+
+! LaTeX Error: Unicode character μ (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 ...d narrow size distribution of 571 ± 66 μ
+                                                  m diameter.
+? 
+
+Overfull \hbox (83.98186pt too wide) in paragraph at lines 49--59
+[]\T1/phv/m/n/10.95 Microcarrier Ma-te-ri-als and Man-u-fac-tur-ing [https://ww
+w.sciencedirect.com/science/article/pii/S0268005X22001527]
+ []
+
+
+Overfull \hbox (183.53337pt too wide) in paragraph at lines 49--59
+\T1/phv/m/n/10.95 [https://go.gale.com/ps/i.do?id=GALE%7CA776940777sid=sitemapv
+=2.1it=rp=HRCAsw=wuserGroupName=anon%7E8cbba7f9aty=open-
+ []
+
+[9]
+! You can't use `macro parameter character #' in horizontal mode.
+l.62 ...com/science/article/pii/S0268005X22001527#
+                                                  bib45]
+? 
+
+! LaTeX Error: Unicode character   (U+202F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 ...gen/chitosan scaffold aerogels @ 0.0468 
+                                                  g/cm3 = 46.8kg/m3  [https:...
+
+? 
+
+! LaTeX Error: Unicode character π (U+03C0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 ...seeding area was determined as S = 4 × π
+                                                   × R2 × N,
+? 
+
+Overfull \hbox (195.76936pt too wide) in paragraph at lines 66--68
+[]\T1/phv/m/n/10.95 collagen/chitosan scaf-fold aero-gels @ 0.0468g/cm3 = 46.8k
+g/m3 [https://www.sciencedirect.com/science/article/pii/S0928493118306295]
+ []
+
+
+! LaTeX Error: Unicode character μ (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 ...d narrow size distribution of 571 ± 66 μ
+                                                  m diameter. This means eac...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.72 A surface area of 4*pi*r^
+                              2 = pi*d^2 = 1.0243e-6 m2
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.73 
+     
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.74 ...com/science/article/pii/S0268005X22001527#
+                                                  appsec1:~:text=2.5.\%20Cel...
+
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.76 ...ww.nature.com/articles/s41467-023-38593-4#
+                                                  MOESM4:~:text=Cell\%20seed...
+
+? 
+
+Overfull \hbox (35.1615pt too wide) in paragraph at lines 74--77
+\T1/phv/m/n/10.95 car-rier. [https://www.sciencedirect.com/science/article/pii/
+S0268005X22001527appsec1: :text=2.5.%20Cell-
+ []
+
+
+Overfull \hbox (114.11096pt too wide) in paragraph at lines 74--77
+\T1/phv/m/n/10.95 cells per cm2 or 90e6 cells per m2 we get a seed-ing of 92.18
+7 cells per mi-cro-car-rier. [https://www.nature.com/articles/s41467-
+ []
+
+[10]) (./tracey/T1-Medium [11] [12]
+<tracey/T-1-Process.png, id=212, 358.722pt x 113.661pt>
 File: tracey/T-1-Process.png Graphic file (type png)
 <use tracey/T-1-Process.png>
 Package pdftex.def Info: tracey/T-1-Process.png  used on input line 40.
 (pdftex.def)             Requested size: 362.77264pt x 114.94409pt.
- [7 <./tracey/T-1-Process.png>])
-(./tracey/T2-Proliferation [8]) (./eunsoo/z3-control-T.tex [9]
-<eunsoo/E-1-1-control-system.png, id=211, 623.83063pt x 211.28937pt>
+ [13 <./tracey/T-1-Process.png>])
+(./tracey/T2-Proliferation [14])
+
+! LaTeX Error: File `will/w4-oxygenation.tex.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+(d:/texlive/2023/texmf-dist/tex/latex/tools/.tex File ignored)
+(./eunsoo/z3-control-T.tex [15]
+<eunsoo/E-1-1-control-system.png, id=242, 623.83063pt x 211.28937pt>
 File: eunsoo/E-1-1-control-system.png Graphic file (type png)
 <use eunsoo/E-1-1-control-system.png>
 Package pdftex.def Info: eunsoo/E-1-1-control-system.png  used on input line 20
 .
 (pdftex.def)             Requested size: 362.77264pt x 122.87032pt.
- [10 <./eunsoo/E-1-1-control-system.png>]
-<eunsoo/E-1-2-heat-exchangers.png, id=226, 428.09938pt x 268.50313pt>
+ [16 <./eunsoo/E-1-1-control-system.png>]
+<eunsoo/E-1-2-heat-exchangers.png, id=258, 428.09938pt x 268.50313pt>
 File: eunsoo/E-1-2-heat-exchangers.png Graphic file (type png)
 <use eunsoo/E-1-2-heat-exchangers.png>
 Package pdftex.def Info: eunsoo/E-1-2-heat-exchangers.png  used on input line 4
 3.
 (pdftex.def)             Requested size: 241.84843pt x 151.68814pt.
-<eunsoo/E-1-3-digital-control-system.png, id=230, 649.42625pt x 355.82938pt>
+<eunsoo/E-1-3-digital-control-system.png, id=262, 649.42625pt x 355.82938pt>
 File: eunsoo/E-1-3-digital-control-system.png Graphic file (type png)
 <use eunsoo/E-1-3-digital-control-system.png>
 Package pdftex.def Info: eunsoo/E-1-3-digital-control-system.png  used on input
  line 54.
 (pdftex.def)             Requested size: 290.22107pt x 159.01953pt.
- [11 <./eunsoo/E-1-2-heat-exchangers.png> <./eunsoo/E-1-3-digital-control-syste
-m.png>] [12]
-<eunsoo/E-1-4-step-and-impulse.jpg, id=263, 843.15pt x 632.3625pt>
+
+[17 <./eunsoo/E-1-2-heat-exchangers.png> <./eunsoo/E-1-3-digital-control-system
+.png>] [18]
+<eunsoo/E-1-4-step-and-impulse.jpg, id=295, 843.15pt x 632.3625pt>
 File: eunsoo/E-1-4-step-and-impulse.jpg Graphic file (type jpg)
 <use eunsoo/E-1-4-step-and-impulse.jpg>
 Package pdftex.def Info: eunsoo/E-1-4-step-and-impulse.jpg  used on input line 
 121.
 (pdftex.def)             Requested size: 338.58632pt x 253.94402pt.
-) (./eunsoo/z4-control-DO.tex [13 <./eunsoo/E-1-4-step-and-impulse.jpg>]) (./eu
-nsoo/z5-control-pH.tex [14])
-(./eunsoo/z6-purify-lactic.tex [15]) [16] (./eunsoo/z7-purify-NH3.tex)
-(./eunsoo/z8-final-product.tex [17
+) (./eunsoo/z4-control-DO.tex [19 <./eunsoo/E-1-4-step-and-impulse.jpg>]) (./eu
+nsoo/z5-control-pH.tex [20]) (./eunsoo/z6-purify-lactic.tex [21])
+[22] (./eunsoo/z7-purify-NH3.tex) (./eunsoo/z8-final-product.tex [23
 
-]) [18]
+]) [24]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 174.
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-62.
+74.
 
 (d:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-Overfull \hbox (4.56895pt too wide) in paragraph at lines 163--163
+Overfull \hbox (4.56895pt too wide) in paragraph at lines 175--175
 []\T1/phv/m/n/10.95 P.J. Fel-lows. ^^P  Heat pro-cess-ing^^Q. In: \T1/phv/m/sl/
 10.95 Food Pro-cess-ing Tech-nol-ogy: Prin-ci-ples and Prac-tice\T1/phv/m/n/10.
 95 . 3rd ed.
  []
 
-[19
+[25
 
 {d:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
-[20] (./main.aux)
+[26] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AA6B1B7864C97258BE83B1137A92733A;3254.
+(rerunfilecheck)             Checksum: 82F8F8CDF2B12646D57476003DFEB489;3569.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23324 strings out of 474166
- 405605 string characters out of 5749518
+ 23348 strings out of 474166
+ 406009 string characters out of 5749518
  1938542 words of memory out of 5000000
- 45211 multiletter control sequences out of 15000+600000
+ 45219 multiletter control sequences out of 15000+600000
  596393 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,11n,81p,1189b,1860s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<d:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/tex
-live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><d:/texlive/2023/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2023/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/2023/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2023/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmib10.pfb><d:/texlive/2023/texmf-dist/fonts/type1/public/amsfont
-s/cmextra/cmmib6.pfb><d:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm
-extra/cmmib8.pfb><d:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-10.pfb><d:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/
-texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2
-023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/2023/texmf-
-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><d:/texlive/2023/texmf-dist
-/fonts/type1/public/amsfonts/symbols/msbm10.pfb><d:/texlive/2023/texmf-dist/fon
-ts/type1/public/cm-super/sftt1095.pfb><d:/texlive/2023/texmf-dist/fonts/type1/u
-rw/helvetic/uhvb8a.pfb><d:/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhv
-r8a.pfb><d:/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (20 pages, 929111 bytes).
+ 67i,11n,81p,1189b,1862s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<d:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/tex
+live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/2023/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2023/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2023/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2023/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><d:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy8.pfb><d:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msa
+m10.pfb><d:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb><d
+:/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><d:/texlive/2023/
+texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><d:/texlive/2023/texmf-dist/font
+s/type1/urw/helvetic/uhvro8a.pfb>
+Output written on main.pdf (26 pages, 814278 bytes).
 PDF statistics:
- 413 PDF objects out of 1000 (max. 8388607)
- 336 compressed objects within 4 object streams
- 76 named destinations out of 1000 (max. 500000)
- 220 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 423 PDF objects out of 1000 (max. 8388607)
+ 352 compressed objects within 4 object streams
+ 84 named destinations out of 1000 (max. 500000)
+ 252 words of extra memory for PDF output out of 10000 (max. 10000000)
 

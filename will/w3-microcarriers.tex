@@ -1,152 +1,91 @@
 \newpage
 \section{Control systems}
-\vspace{-3mm}
+
 \subsection{Introduction}
-\vspace{-3mm}
 
-% 4 pages given, 8 sections in total.
-% Each section should be roughly 1/2 page long.
+Scaffold Selection
+Skeletal muscle cells are themselves adherent – they’re named after the fact they adhere to bones. In vivo, cells exist within an extracellular matrix of proteins and proteoglycans. Complex interactions known as mechanotransduction occurs between the stiffness of the matrix and the cells within it. These interactions are governed by integrins and lead to downstream signaling that can affect cell polarity, migration, and differentiation.
+During the proliferation phase, we grow anchorage-dependent stem cells in large scale bioreactors. The non-native environment can lead to anoikis if cells are not adapted to suspension growth, tricked into via molecules such as Rho Kinase inhibitors to be anchorage independent or grown as spheroids. We can bypass activation of anoikis in suspension by using a scaffold that enables cellular adherence.
+Another factor to consider would be the materials used in our scaffolds. We need to ensure they meet our primary directives and the goals of the group.
+ 
+[https://gfi.org/wp-content/uploads/2023/01/Figure-4-Scaffold-Types_v1.pdf]
+Microcarriers
+Microcarriers are small spherical structures that mimic extracellular matrix characteristics to allow cellular attachment. Whilst there are other scaffolding techniques available, microcarriers have the advantage of providing a large surface area to volume ratio, permitting high densities of cells in the proliferation phase.
+[https://gfi.org/science/the-science-of-cultivated-meat/deep-dive-cultivated-meat-scaffolding]
+[https://www.mdpi.com/2304-8158/10/12/3116]
+ 
+Figure 1"C:\Users\will\OneDrive - Nexus365\Eng\Year3\B3\Group Work\Resources and Documents\External\231016 Ivy Farm Industry Talk Oxford - Share.pdf"
+[https://www.sciencedirect.com/science/article/pii/S0268005X22001527]
+Porous Scaffolds
+Porous scaffolds try to mimic the extracellular matrix of a tissue. Generally, porous scaffolds allow adhesion, mass transport, migration and cell distribution. To accommodate this, they need to be biocompatible to avoid an immune response and they can enhance tissue growth by being bioactive.
+Typical scaffold structures can be foams or lattices. If foamed, they need a manufacturing process that ensures the interconnectivity of pores and pore size, to prevent hypoxic conditions due to stagnation. Manufacturing processes like this are complex and don’t guarantee performance.
+[https://pubs.acs.org/doi/10.1021/acsabm.2c00740]
+Hydrogels
+Hydrogels are made up of three-dimensional networks of crosslinked hydrophilic polymers. They can absorb large amounts of fluids, up to several thousand \%, and readily swell without dissolving. When swollen they resemble living tissues in texture – rubbery and soft.
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3963751/]
+Chitosan and alginate-based hydrogels meet the biocompatible requirements needed to prevent an immoresponse from our cultured cells. [https://onlinelibrary.wiley.com/doi/abs/10.1002/app.10137]
+ 
+Figure 2https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3963751
+Hydrogels can be obtained by various methods – most commonly physical crosslinking, chemical crosslinking, free radical polymerisation and irradiation crosslinking [see fig below]
+ 
+Figure 3 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3963751
+[https://link.springer.com/article/10.1007/s10856-019-6318-7 and "C:\Users\will\OneDrive - Nexus365\Eng\Year3\B3\Group Work\Project Collaboration\Will\s42242-021-00165-0.pdf"]
+Additional techniques
+3D Printing and other additive techniques
+3D printing can be used to print either the product, allowing greater control over the composition and texture, or the ECM-like porous scaffold used in cell proliferation, allowing us to print a fluid-modelled growth-structure that we’re certain allows proper perfusion. Additive techniques, however, decrease cell viability after micro extrusion by around 40-86\% due to extrusion pressure and shear stress. The process requires specialist, precision, equipment – increasing complexity, maintenance, and capital costs. 
+ 
+Figure 4 "C:\Users\will\OneDrive - Nexus365\Eng\Year3\B3\Group Work\Project Collaboration\Will\s10856-019-6318-7.pdf"
+Fiber Scaffolds
+Much like porous scaffolds, we can make cell supporting structures using microfibres. Cellulose fibres meet our criteria for biocompatibility, mechanical strength and reactive surfaces for protein binding, however very few studies have looked into the application of cellulose microfibers as a scaffold in cell culturing due to the absence of an intrinsic 3-D structure. Use of gelatin may provide the needed 3-D architecture – gelatin is collagen derived and is nonimmunogenic, inexpensive and biodegradable. Research shows that cellulose microfiber/gelatin composites containing up to 75\% cellulose fibres are more capable of withstanding mechanical loads than gelatin alone.
+[https://www.sciencedirect.com/science/article/pii/S1742706109005777]
+Gelatin is produced through partial hydrolysis of collagen, which is typically from bovine or porcine sources. This means that whilst cellulose itself is plant based, cellulose fiber scaffolds don’t meet our requirements for reducing reliance on existing animal agriculture and slaughter.
+[https://www.sciencedirect.com/topics/chemistry/gelatin]
+Additional factors
+Typically, scaffolds are used in the proliferation process, after which the cells are harvested using trypsin, accutase and/or sonication. [https://pubmed.ncbi.nlm.nih.gov/30504375/][ https://www.nature.com/articles/s41598-022-09605-y] However, harvesting puts the cells at risk of death – reducing yield – and adds further operations to an already complex process. If we consider the texture and composition of the final product, we know that since techniques for growing fibrous muscle or spatially patterned 3D substrates haven’t developed yet, the structure of our final product will be a homogenised microtissue structure – as seen in ground beef. To add texture to the homogenised microtissues we need a binding/aggregating agent, which is often added to the cells after they are harvested from their proliferation scaffold.
+If we can find a proliferation scaffold that can stay in the final product and increase the aggregate size, we remove the need for harvesting and secondary scaffold addition. This will be a significant improvement on the product and thus should be weighted as such in our multi-criteria analysis. If we do manage to find something suitable, we note we’ve removed the option of recycling our proliferation scaffold, which means we need to ensure we have a well optimised scaffold manufacturing process.  
 
-% - (I) What is a bioreactor control system?
+Figure 5 Structured Final Beef Burgers  https://static-content.springer.com/esm/art\%3A10.1038\%2Fs41467-023-38593-4/MediaObjects/41467_2023_38593_MOESM6_ESM.mp4
 
-Homeostasis, defined as the internal regulatory functions of the body to maintain certain conditions constant~\citep{E-Guyton2006, E-Aging2022}, is extremely crucial to living organisms. For example, for humans, the blood pH outside the range between 7.35 and 7.45 can cause death \cite{E-Donaldson2013}. In addition to its significance in maintaining an existing life, homeostasis has great importance in creating a new life: Mammalian cell culture.
+Microcarrier Materials and Manufacturing [https://www.sciencedirect.com/science/article/pii/S0268005X22001527]
+Materials
+Chitosan (Av. MW 890,000 Da, degree of deacetylation: 93\%) was purchased from Glentham Life Sciences (Wiltshire, UK). Sodium tripolyphosphate (TPP) was purchased from Alfa Aesar (Ward Hill, MA, USA). Bovine Achilles tendon collagen and porcine gastric pepsin were purchased from Sigma Aldrich (Rehovot, Israel). Epigallocatechin gallate (EGCG) was supplied by Healthy origins (Pittsburgh, PA, USA).
+Substitute tendon collagen for biomimetic plant based collagen.
+[https://go.gale.com/ps/i.do?id=GALE\%7CA776940777&sid=sitemap&v=2.1&it=r&p=HRCA&sw=w&userGroupName=anon\%7E8cbba7f9&aty=open-web-entry]
+Substitute pepsin with animal free pepsin. [https://theeverycompany.com/news/pepsin]
+Manufacturing of cell microcarriers
+A 2\% chitosan (CS) solution in 0.2M acetic acid was electrosprayed through a 27G needle into a 2\% TPP crosslinking solution. Alternatively, a solution of 1\% collagen (COL) in 0.5M acetic acid was prepared using 0.1\% pepsin and electrosprayed into a 1\% EGCG crosslinking solution. In the case of composite microcarriers, chitosan and collagen solutions were mixed at a mass ratio of 90:10, respectively, to achieve a final polymer concentration of 2\%. The spray distance, applied voltage, flow rate, and polymer concentration were optimized according to Tables S1 and S2. The obtained MCs were sterilized using 70\% ethanol and then washed 2 times for 60 min in double distilled water, once in phosphate buffer saline (PBS), and once in a growth medium before seeding the cells.
+For the seeding, microcarriers were incubated with the cells at 37 °C and 5\% CO2 overnight in a ratio of 5000 cells/cm2. The seeding area was determined as S = 4 × π × R2 × N, where S is the seeding area, R is the radius of MCs, and N is the number of MCs.
+Optimal size being spherical microparticles with a smooth surface and narrow size distribution of 571 ± 66 μm diameter.
 
-In a bioreactor, homeostasis can be achieved by solving the classical problem of tracking the reference signal $r(t)$ in control theory, as shown in Figure \ref{figure:E-1-1-control-system}. A thoroughly designed bioreactor and its constituent control systems will lead to better achievement of the design objectives, which are: (i) How can one achieve the production rate of 100 kg/month? (ii) How can one produce a better quality of meat?
+Bacterial collagen substitute [https://www.frontiersin.org/articles/10.3389/fchem.2014.00040/full]
 
-The design of the control system mainly answers the latter question. The former question is rather answered through the overall process diagram, number and sizes of bioreactors, mass inflows and outflows, so will not be tackled in this chapter. Bioreactor control, however, addresses the formation and maintenance of the optimal environment to produce the best quality of meat. Thus, in this chapter, the design of temperature (T), dissolved oxygen (DO) and acidity (pH) control systems are discussed.
+Plant collagen [https://www.sciencedirect.com/science/article/pii/S0268005X22001527#bib45]
 
-\begin{figure}[h]
-    \centering
-    \includegraphics[width=0.75\textwidth]{eunsoo/E-1-1-control-system.png}
-    \hfill
-    \caption{A schematic of a negative feedback control system \citet{E-Cannon2022}}
-    \label{figure:E-1-1-control-system}
-\end{figure}
+Muscle cell @ 3.5e-13kg [Mike ref]
 
-\vspace{-10mm}
-\subsection{Temperature control}
-\vspace{-3mm}
-\subsubsection{Introduction}
+collagen/chitosan scaffold aerogels @ 0.0468 g/cm3 = 46.8kg/m3  [https://www.sciencedirect.com/science/article/pii/S0928493118306295]
+For the seeding, microcarriers were incubated with the cells at 37 °C and 5\% CO2 overnight in a ratio of 5000 cells/cm2. The seeding area was determined as S = 4 × π × R2 × N,
 
-% - (I) why consider control systems for temperature?
+The addition of a low EGCG concentration (0.02\%) resulted in spherical microparticles with a smooth surface and narrow size distribution of 571 ± 66 μm diameter. This means each microcarrier has a 
+volume of 97.48e-12m3, and thus a 
+mass of V*rho = 4.562e-9kg.
+A surface area of 4*pi*r^2 = pi*d^2 = 1.0243e-6 m2
 
-The body temperature of beef cattle should be maintained at $39.6 \pm 0.1 ^{\circ} C$ \cite{E-Gaughan2014}. To do so, different physical setups of the heat exchanger around the bioreactor will be compared to find the optimal one. Differential equations will be constructed to derive the plant transfer function. Design criteria will be posed with appropriate justification. Different control strategies will be compared to find the optimal one. The design criteria introduced will be used to find control parameters. MATLAB simulations will be used to confirm the validity of the step and impulse responses.
+Our starting density is 50e6 cells per m2 of microcarrier surface area. This is 51.2 cells per microcarrier. [https://www.sciencedirect.com/science/article/pii/S0268005X22001527#appsec1:~:text=2.5.\%20Cell-,seeding,-and\%20cultivation\%20on]
+However, if we go with the later studied seeding density of 9000 cells per cm2 or 90e6 cells per m2 we get a seeding of 92.187 cells per microcarrier.
+[https://www.nature.com/articles/s41467-023-38593-4#MOESM4:~:text=Cell\%20seeding-,Edible,-cell\%20microcarriers\%20were]
 
-\subsubsection{Methods}
+Our final amount of meat each cycle is about 100kg
+At 20\%m/m of fat this leaves 80kg of cells + microcarriers.
+Optimistic cell densities achieved in production STRs are around 2e6cells/mL = 2e12cells/m3. [https://www.frontiersin.org/articles/10.3389/fsufs.2019.00044/full]
+With random packing of equal spheres we get approx. 63.5\% of space taken up.
+This means that in a 1m3 space we can pack 1/(97.48e-12m3/63.5\%) = 6.514e9 microcarriers/m3
+This gives a microcarrier to cell ratio of 1:307 or roughly 1:300.
+This gives a microcarrier to cell mass ratio 1:0.2355 or 4.246:1
+Thus, of our 80kg, we have 15.25kg of raw cells and 64.75kg of microcarriers.
 
-% - (M1) the physical structure of the temperature control system and justification
+Further attempts to reduce the collagen concentration in the MC led to a decreased cell viability: (Fig. S3), hence the 90:10 CS/COL-MCs were used in our following studies.
+ 
+Figure S3. Viability of C2C12 cells cultured on CS/COL-MCs produced using different ratios of chitosan to collagen. 
+https://www.sciencedirect.com/science/article/pii/S0268005X22001527
 
-Various types of heat exchangers used to control the heat in and out of the bioreactor are shown in Figure \ref{figure:E-1-2-heat-exchangers}. The best design choice is (a), the jacketed bioreactor. The logic is as follows: (c) and (d) have the heat exchange inside the bioreactor, causing an intervention in the rotational pathway of the impeller used to stir the meat, and thus adding unnecessary complexity to the design to avoid this; (e) involves taking the meat out of the bioreactor, which firstly may harm the meat cells by pumping and pressurising them above the maximum stress that they they can resist, and secondly has a potential issue of fouling in the pump. One is now left with (a) and (b), but for better heat transfer it is more efficient for the working fluid to cover the entire bioreactor, and for more evenly distributed heat transfer it is better if the inlet and the outlet temperatures of the heat exchanger do not vastly differ. Hence, (a) is the best option.
-
-\begin{figure}[h]
-    \centering
-    \includegraphics[width=0.5\textwidth]{eunsoo/E-1-2-heat-exchangers.png}
-    \hfill
-    \caption{Heat exchanger configurations for a bioreactor \cite{E-Doran2013}}
-    \label{figure:E-1-2-heat-exchangers}
-\end{figure}
-
-\vspace{-5mm}
-Theoretically, the heat exchanger's working fluid temperature $T_{fluid}$ controls the bioreactor's internal temperature $T$. Practically, the observer is implemented using a temperature sensor, and the controller is implemented digitally using a computer system, as shown in Figure \ref{figure:E-1-3-digital-control-system}.
-
-\begin{figure}[h]
-    \centering
-    \includegraphics[width=0.6\textwidth]{eunsoo/E-1-3-digital-control-system.png}
-    \hfill
-    \caption{Practical implementation of the control system}
-    \label{figure:E-1-3-digital-control-system}
-\end{figure}
-
-\newpage
-
-% - (M2) the mathematical model and transfer function derivation for temperature control
-
-The dynamics over time of temperature ($T$) can be described via the energy balance equation, where $\rho$ is the wet cell density, $V$ is the volume of the bioreactor, $c_p$ is the specific heat capacity, $Q_{met}$ is the metabolic heat generation rate, $h$ is the heat transfer coefficient and $A$ is the area of the bioreactor.
-
-\vspace{-5mm}
-\begin{equation}
-    \rho V c_p \frac{\partial T}{\partial t} = Q_{met} V - hA(T-T_{fluid})
-\end{equation}
-
-The change of variables to perturbations $\Delta T = T(t) - T_{ss}$ and $\Delta T_{fluid} = T_{fluid}(t) - T_{fluid, ss}$ leads to Equation \ref{equation:E-temp-2}. During the entire culturing period ($t>0$) the steady-state assumption ($\frac{\partial \Delta T}{\partial t} = 0$, $\Delta T \approx \Delta T_{fluid} \approx 0$) can be made because otherwise the cells will die due to the violence of homeostasis. This leads to Equation \ref{equation:E-temp-3}. Substituting Equation \ref{equation:E-temp-3} into Equation \ref{equation:E-temp-2} and taking the Laplace transform leads to the desired transfer function, as shown in Equation \ref{equation:E-temp-4}.
-
-\vspace{-5mm}
-\begin{equation}
-    \rho V c_p \frac{\partial \Delta T}{\partial t} = Q_{met} V - hA(T_{ss} - T_{fluid, ss}) - hA(\Delta T - \Delta T_{fluid})
-    \label{equation:E-temp-2}
-\end{equation}
-
-\vspace{-10mm}
-\begin{equation}
-    Q_{met} V - hA(T_{ss} - T_{fluid, ss}) = 0
-    \label{equation:E-temp-3}
-\end{equation}
-
-\vspace{-10mm}
-\begin{equation}
-    G(s) = \frac{\Delta T(s)}{\Delta T_{fluid}(s)} = \frac{hA}{\rho V c_p s + hA}
-    \label{equation:E-temp-4}
-\end{equation}
-
-\subsubsection{Results}
-
-%- (R1) the numerical values of parameters summarised in a table and justification
-
-%- (R2) proposal of design criteria and PID controller implementation
-
-%- (R3) demonstration of the step and impulse responses of the system and the PID controller performance
-
-The wet cell mass of $3.5 \times 10^{-12} \ kg/cell$ and the cell diameter of $295 \times 10^{-6} \ m$ \cite{E-Furuhashi2021} are used to calculate the density so that $\rho = 0.26 \ kg/m^3$. The bioreactor height of $2 \ m$ and the bioreactor diameter of $2.1 \ m$, are used to calculate the area and the volume of the bioreactor so that $A = 20.12 \ m^2$ and $V = 6.93 \ m^3$. The yield of the final product to the wet cell $\eta = 0.5$ is used along with $c_{p, cell} = 3.440 \ kJ kg^{-1} K^{-1}$ \cite{E-Fellows2009} and $c_{p, water} = 4.180 \ kJ kg^{-1} K^{-1}$ to linearly interpolate the specific enthalpy as shown in Equation \ref{equation:E-temp-5}. The heat transfer coefficient is assumed to be $h = 0.5 \ kW m^{-2} K^{-1}$. Substituting these values in, the plant transfer function is derived as shown in Equation \ref{equation:E-temp-6}.
-
-\vspace{-5mm}
-\begin{equation}
-    c_p = \eta c_{p, cell} + (1-\eta) c_{p, water} = 3.810 \ kJ kg^{-1} K^{-1}
-    \label{equation:E-temp-5}
-\end{equation}
-
-\vspace{-10mm}
-\begin{equation}
-    G(s) = \frac{10.06}{6.872 s + 10.06}
-    \label{equation:E-temp-6}
-\end{equation}
-
-The design of the controller is often done by setting the gain margin (GM) or the phase margin (PM) of $C(s)G(s)$ at a chosen frequency. The best design criterion is $PM = 60 ^{\circ}$ at $\omega = 4.16 \ rad/s$. The logic is as follows: the rise time of the plant's step response, defined as the time taken from 10\% to 90\% of the steady-state value, is $\Delta t = 1.58 - 0.07 = 1.51 \ s$, as it is also visible from Figure \ref{figure:E-1-4-step-and-impulse}. The rise time can be viewed as the mean time taken for the bioreactor to respond to the heat exchanger, and hence the period. The operating frequency is then $\omega = 2\pi / \Delta t = 4.16 \ rad/s$.
-
-Practically, there is a higher chance of acceleration or delay in heating and cooling than a sudden overheating or underheating. Thus, one may be more concerned with the phase margin that relates to unexpected phase lags $\angle G(j \omega)$ than the gain margin that relates to unexpected magnitude deviations $|G(j \omega)|$. An acceptable rule of thumb is $PM = 60 ^{\circ}$, so one reaches the posed criterion.
-
-One of the most commonly used controllers in the process control industry is proportional-differentiator-integral (PID). The engineer can use the above criterion along with the condition that "the low-frequency asymptote of the Nyquist on the $M=1$ line" \cite{E-Cannon2022-2}, which means the unity D.C. gain $\frac{Y(s)}{R(s)} = 1$ and thus zero steady-state error. Through this, one can find the three controller gains in $C(s) = K_p + \frac{K_i}{s} + K_d s$.
-
-\begin{figure}[h]
-    \centering
-    \includegraphics[width=0.7\textwidth]{eunsoo/E-1-4-step-and-impulse.jpg}
-    \hfill
-    \caption{The step and impulse responses of the plant}
-    \label{figure:E-1-4-step-and-impulse}
-\end{figure}
-
-\vspace{-10mm}
-\subsubsection{Discussion}
-- (D) discussion of how my choices led to better achievement of the final objectives, compared to other control strategies
-
-% TESTING WHERE TO PUT BIBLIOGRAPHY
-% \begingroup\onehalfspacing
-% {\small
-% %\renewcommand{\section}[2]{}
-% \begin{multicols}{2}
-% \bibliographystyle{unsrt}
-% %\bibliographystyle{elsarticle-num}
-% % \bibliographystyle{elsarticle-harv}
-% % \bibliographystyle{elsarticle-num-names}
-% % \bibliographystyle{model1a-num-names}
-% % \bibliographystyle{model1b-num-names}
-% % \bibliographystyle{model1c-num-names}
-% % \bibliographystyle{model1-num-names}
-% % \bibliographystyle{model2-names}
-% % \bibliographystyle{model3a-num-names}
-% % \bibliographystyle{model3-num-names}
-% % \bibliographystyle{model4-names}
-% % \bibliographystyle{model5-names}
-% % \bibliographystyle{model6-num-names}
-% \bibliography{mybib.bib}
-% \end{multicols}}
-% \endgroup

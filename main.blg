@@ -1,18 +1,18 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[128] biber-MSWIN64:340> INFO - === 
-[177] Biber.pm:419> INFO - Reading 'main.bcf'
-[304] Biber.pm:979> INFO - Found 17 citekeys in bib section 0
-[322] Biber.pm:4419> INFO - Processing section 0
-[342] Biber.pm:4610> INFO - Looking for bibtex file 'mybib.bib' for section 0
-[405] bibtex.pm:1713> INFO - LaTeX decoding ...
-[437] bibtex.pm:1519> INFO - Found BibTeX data source 'mybib.bib'
-[590] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[591] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[591] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de_DE'
-[591] Biber.pm:4245> INFO - No sort tailoring available for locale 'de_DE'
-[624] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[637] bbl.pm:763> INFO - Output to main.bbl
-[638] Biber.pm:131> WARN - legacy month field 'Jul 28' in entry 'Subbiahanadar2021' is not an integer - this will probably not sort properly.
-[638] Biber.pm:131> WARN - legacy year field '17-01-2023' in entry 'mosameat' is not an integer - this will probably not sort properly.
-[639] Biber.pm:133> INFO - WARNINGS: 2
+[407] biber-MSWIN64:340> INFO - === 
+[524] Biber.pm:419> INFO - Reading 'main.bcf'
+[694] Biber.pm:979> INFO - Found 17 citekeys in bib section 0
+[716] Biber.pm:4419> INFO - Processing section 0
+[745] Biber.pm:4610> INFO - Looking for bibtex file 'mybib.bib' for section 0
+[816] bibtex.pm:1713> INFO - LaTeX decoding ...
+[855] bibtex.pm:1519> INFO - Found BibTeX data source 'mybib.bib'
+[1055] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1056] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1056] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de_DE'
+[1057] Biber.pm:4245> INFO - No sort tailoring available for locale 'de_DE'
+[1113] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1140] bbl.pm:763> INFO - Output to main.bbl
+[1142] Biber.pm:131> WARN - legacy month field 'Jul 28' in entry 'Subbiahanadar2021' is not an integer - this will probably not sort properly.
+[1142] Biber.pm:131> WARN - legacy year field '17-01-2023' in entry 'mosameat' is not an integer - this will probably not sort properly.
+[1143] Biber.pm:133> INFO - WARNINGS: 2
